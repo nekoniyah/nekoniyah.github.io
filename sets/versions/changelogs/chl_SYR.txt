@@ -1,4 +1,125 @@
-﻿VERSION 2 CHANGELOG
+﻿VERSION 3 CHANGELOG
+====================
+
+
+Rejuvinating Engine removed.
+
+Merley, Beast Empowerer
+
+Ryuu, Empyrean Prayer
+
+Corrupted Savanna
+
+Use Knowledge
+
+Mayel, Midnight Battler
+
+Icefood Huntress
+
+Hammer of Shatters
+
+Cure
+
+Ruins Protector
+
+Ammo Reserve
+
+Travellers Campement
+
+History Escapists
+
+Supply Manager
+
+Intrepid Fighter
+
+Armed Outlookers
+
+Admiral's Squadron
+
+Plasma Canoneer
+
+Permanent Nomads
+
+Zalkrein Poisoner
+
+Zalkrys' Conqueror
+
+Yuvoth's Apparition
+
+Coming Clean
+
+Quiet Pressure
+
+Trapped By Your innovation
+
+Will of Peace
+
+Will of Silence
+
+Will of violence
+
+Beastling summonning
+
+Heal Wounds
+
+Magical Abundance
+
+Trapped by the Darkness
+
+We Must Preserve!
+
+Guided By Destiny
+
+Radiant Soul
+
+Death Upon
+
+Existence Shattering
+
+Eldritch Encounter
+
+Prize Protection
+
+Lysa, Yps Biggest Fan
+
+George Yps, Master Crafter
+
+Mary, Army Admiral
+
+Zalkrein Fear
+
+Take Possession for Money
+
+Mortuary of the Dread
+
+Zalkrein's Refuge
+
+Approaching the Negotiations
+
+Armed and Loaded
+
+Central Overcharge
+
+Key to Success
+
+Market Trading
+
+Scatter and Deploy
+
+Slow and Steady
+
+Spy Kit
+
+Encampment
+
+Javed, Diplomat
+
+Traveling Season
+
+World Remodeler
+
+
+VERSION 2 CHANGELOG
 ====================
 
 

@@ -13,7 +13,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "98"
+        "position": "97"
     },
     {
         "card_name": "4th Wall Threat",
@@ -29,7 +29,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "66"
+        "position": "65"
     },
     {
         "card_name": "Beastling summonning",
@@ -37,7 +37,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "80"
+        "position": "79"
     },
     {
         "card_name": "Trapped By Your innovation",
@@ -45,7 +45,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "76"
+        "position": "75"
     },
     {
         "card_name": "Bismuth Rose",
@@ -61,7 +61,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "75"
+        "position": "74"
     },
     {
         "card_name": "Market Trading",
@@ -69,7 +69,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "102"
+        "position": "101"
     },
     {
         "card_name": "Essence Keeper",
@@ -85,7 +85,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "74"
+        "position": "73"
     },
     {
         "card_name": "Fairy Guide",
@@ -109,7 +109,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "79"
+        "position": "78"
     },
     {
         "card_name": "Cure",
@@ -117,7 +117,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "60"
+        "position": "59"
     },
     {
         "card_name": "Icefood Huntress",
@@ -125,7 +125,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "58"
+        "position": "57"
     },
     {
         "card_name": "Pilot of the Skies",
@@ -141,7 +141,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "78"
+        "position": "77"
     },
     {
         "card_name": "Armed and Loaded",
@@ -149,7 +149,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "99"
+        "position": "98"
     },
     {
         "card_name": "Fluffy Druid",
@@ -165,7 +165,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "90"
+        "position": "89"
     },
     {
         "card_name": "Ruins Protector",
@@ -173,7 +173,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "61"
+        "position": "60"
     },
     {
         "card_name": "Demonic Conqueror",
@@ -189,7 +189,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "100"
+        "position": "99"
     },
     {
         "card_name": "Traveling Season",
@@ -197,7 +197,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "108"
+        "position": "107"
     },
     {
         "card_name": "Will of Peace",
@@ -205,7 +205,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "77"
+        "position": "76"
     },
     {
         "card_name": "Slow and Steady",
@@ -213,7 +213,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "104"
+        "position": "103"
     },
     {
         "card_name": "Eldritch Encounter",
@@ -221,7 +221,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "89"
+        "position": "88"
     },
     {
         "card_name": "Existence Shattering",
@@ -229,7 +229,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "88"
+        "position": "87"
     },
     {
         "card_name": "Vulpes Traveller",
@@ -261,7 +261,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "83"
+        "position": "82"
     },
     {
         "card_name": "Hammer of Shatters",
@@ -269,7 +269,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "59"
+        "position": "58"
     },
     {
         "card_name": "Wild Mirage",
@@ -285,7 +285,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "81"
+        "position": "80"
     },
     {
         "card_name": "Use Knowledge",
@@ -293,7 +293,7 @@
         "shape": "leveler",
         "set": "SYR",
         "rotated": false,
-        "position": "56"
+        "position": "55"
     },
     {
         "card_name": "Void Spawn",
@@ -320,7 +320,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "64"
+        "position": "63"
     },
     {
         "card_name": "e"
@@ -331,7 +331,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "71"
+        "position": "70"
     },
     {
         "card_name": "Ninetailed Flamemaster",
@@ -361,7 +361,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "72"
+        "position": "71"
     },
     {
         "card_name": "Yuvoth's Influence",
@@ -400,7 +400,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "63"
+        "position": "62"
     },
     {
         "card_name": "e"
@@ -429,11 +429,11 @@
     "a->gold",
     {
         "card_name": "We Must Preserve!",
-        "number": 89,
+        "number": 88,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "84"
+        "position": "83"
     },
     {
         "card_name": "Mayel, Midnight Battler",
@@ -441,11 +441,11 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "57"
+        "position": "56"
     },
     {
         "card_name": "Khi'kxi, Revolute Evolver",
-        "number": 94,
+        "number": 93,
         "shape": "transform double faced",
         "set": "SYR",
         "rotated": false,
@@ -465,11 +465,11 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "53"
+        "position": "52"
     },
     {
         "card_name": "Wisteria of Evolution",
-        "number": 90,
+        "number": 89,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -477,11 +477,11 @@
     },
     {
         "card_name": "Take Possession for Money",
-        "number": 85,
+        "number": 84,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "95"
+        "position": "94"
     },
     {
         "card_name": "Grievous Stray",
@@ -508,7 +508,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "67"
+        "position": "66"
     },
     {
         "card_name": "Deathbound Grimoire",
@@ -520,7 +520,7 @@
     },
     {
         "card_name": "Skies of Annihilation",
-        "number": 80,
+        "number": 79,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -543,25 +543,25 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "82"
+        "position": "81"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Zalkrein Fear",
-        "number": 92,
+        "number": 91,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "94"
+        "position": "93"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Snow Huntress",
-        "number": 82,
+        "number": 81,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -573,7 +573,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "85"
+        "position": "84"
     },
     {
         "card_name": "e"
@@ -584,14 +584,14 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "87"
+        "position": "86"
     },
     {
         "card_name": "e"
     },
     {
         "card_name": "Vital Magic",
-        "number": 96,
+        "number": 95,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -603,7 +603,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "70"
+        "position": "69"
     },
     {
         "card_name": "e"
@@ -642,7 +642,7 @@
     },
     {
         "card_name": "Transcended Chimera",
-        "number": 86,
+        "number": 85,
         "shape": "leveler",
         "set": "SYR",
         "rotated": false,
@@ -662,7 +662,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "68"
+        "position": "67"
     },
     {
         "card_name": "Licia of the Insurging Seas",
@@ -674,7 +674,7 @@
     },
     {
         "card_name": "Abyss Traveler",
-        "number": 93,
+        "number": 92,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -686,11 +686,11 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "91"
+        "position": "90"
     },
     {
         "card_name": "Night Prowler",
-        "number": 95,
+        "number": 94,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -702,11 +702,11 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "62"
+        "position": "61"
     },
     {
         "card_name": "Spiritualizing Sky",
-        "number": 83,
+        "number": 82,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -721,7 +721,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "69"
+        "position": "68"
     },
     {
         "card_name": "e"
@@ -732,7 +732,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "93"
+        "position": "92"
     },
     {
         "card_name": "e"
@@ -742,22 +742,22 @@
     },
     {
         "card_name": "Supply Manager",
-        "number": 84,
+        "number": 83,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "65"
+        "position": "64"
     },
     {
         "card_name": "e"
     },
     {
-        "card_name": "Rejuvinating Engine",
-        "number": 76,
+        "card_name": "Scatter and Deploy",
+        "number": 78,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "52"
+        "position": "102"
     },
     {
         "card_name": "e"
@@ -767,7 +767,7 @@
     },
     {
         "card_name": "Vizzet, Master of Duality",
-        "number": 87,
+        "number": 86,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -777,12 +777,12 @@
         "card_name": "e"
     },
     {
-        "card_name": "Scatter and Deploy",
-        "number": 79,
+        "card_name": "Sky Claw",
+        "number": 80,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "103"
+        "position": "24"
     },
     {
         "card_name": "e"
@@ -792,7 +792,7 @@
     },
     {
         "card_name": "Vizzet's Quick Fighter",
-        "number": 88,
+        "number": 87,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -802,12 +802,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Sky Claw",
-        "number": 81,
-        "shape": "normal",
-        "set": "SYR",
-        "rotated": false,
-        "position": "24"
+        "card_name": "e"
     },
     {
         "card_name": "e"
@@ -832,11 +827,11 @@
     },
     {
         "card_name": "Yuvoth's Apparition",
-        "number": 91,
+        "number": 90,
         "shape": "saga",
         "set": "SYR",
         "rotated": false,
-        "position": "73"
+        "position": "72"
     },
     {
         "card_name": "e"
@@ -846,11 +841,11 @@
     },
     {
         "card_name": "Ryuu, Empyrean Prayer",
-        "number": 78,
+        "number": 77,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "54"
+        "position": "53"
     },
     {
         "card_name": "e"
@@ -866,7 +861,7 @@
     },
     {
         "card_name": "Rejuvinating Heights",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -912,7 +907,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "92"
+        "position": "91"
     },
     {
         "card_name": "e"
@@ -937,7 +932,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "101"
+        "position": "100"
     },
     {
         "card_name": "e"
@@ -971,7 +966,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "107"
+        "position": "106"
     },
     {
         "card_name": "e"
@@ -997,11 +992,11 @@
     "a->colorless",
     {
         "card_name": "World Remodeler",
-        "number": 97,
+        "number": 96,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "109"
+        "position": "108"
     },
     {
         "card_name": "Radiant Soul",
@@ -1009,7 +1004,7 @@
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "86"
+        "position": "85"
     },
     {
         "card_name": "e"
@@ -1040,19 +1035,19 @@
     },
     {
         "card_name": "Mortuary of the Dread",
-        "number": 100,
+        "number": 99,
+        "shape": "normal",
+        "set": "SYR",
+        "rotated": false,
+        "position": "95"
+    },
+    {
+        "card_name": "Zalkrein's Refuge",
+        "number": 103,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
         "position": "96"
-    },
-    {
-        "card_name": "Zalkrein's Refuge",
-        "number": 104,
-        "shape": "normal",
-        "set": "SYR",
-        "rotated": false,
-        "position": "97"
     },
     {
         "card_name": "e"
@@ -1077,7 +1072,7 @@
     },
     {
         "card_name": "Bradchel, Technocracy",
-        "number": 98,
+        "number": 97,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1085,15 +1080,15 @@
     },
     {
         "card_name": "Corrupted Savanna",
-        "number": 99,
+        "number": 98,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
-        "position": "55"
+        "position": "54"
     },
     {
         "card_name": "Serenra, Natural Home",
-        "number": 101,
+        "number": 100,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1101,7 +1096,7 @@
     },
     {
         "card_name": "Vaeka, Animal Civilization",
-        "number": 102,
+        "number": 101,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1109,7 +1104,7 @@
     },
     {
         "card_name": "Veluryia, Gracious Wilderness",
-        "number": 103,
+        "number": 102,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1117,7 +1112,7 @@
     },
     {
         "card_name": "Zalkrys, Voidborn Territory",
-        "number": 105,
+        "number": 104,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1154,7 +1149,7 @@
         "shape": "token",
         "set": "SYR",
         "rotated": false,
-        "position": "106"
+        "position": "105"
     },
     {
         "card_name": "Spy Kit",
@@ -1162,7 +1157,7 @@
         "shape": "token",
         "set": "SYR",
         "rotated": false,
-        "position": "105"
+        "position": "104"
     },
     {
         "card_name": "Zalkrein",
