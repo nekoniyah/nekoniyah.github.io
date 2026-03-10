@@ -1,0 +1,1217 @@
+﻿[CustomCards]
+	[
+		{
+			"name": "Vulpes Traveller",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Fox Faunid",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/0.png"
+			}
+		},
+		{
+			"name": "Lightbound Songwriter",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Creature — Cat Faunid Bard",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/1.png"
+			}
+		},
+		{
+			"name": "Fairy Guide",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Enchantment Creature — Fairy Spirit",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/2.png"
+			}
+		},
+		{
+			"name": "Transcended Chimera",
+			"rarity": "special",
+			"mana_cost": "{4}{U}{U}{R}{R}",
+			"type": "Enchantment Creature — Zalkrein Bird",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/3.png"
+			}
+		},
+		{
+			"name": "Vital Magic",
+			"rarity": "special",
+			"mana_cost": "{1}{G/W}",
+			"type": "Sorcery",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/4.png"
+			}
+		},
+		{
+			"name": "Etherbound Fantasy",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{W}",
+			"type": "Instant",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/5.png"
+			}
+		},
+		{
+			"name": "Wisteria of Evolution",
+			"rarity": "special",
+			"mana_cost": "{W}{W}{U}{U}",
+			"type": "Enchantment",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/6.png"
+			}
+		},
+		{
+			"name": "Void Spawn",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Creature — Zalkrein",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/7.png"
+			}
+		},
+		{
+			"name": "Medieval General",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/8.png"
+			}
+		},
+		{
+			"name": "Human Soldier",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Human Soldier",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/9.png"
+			}
+		},
+		{
+			"name": "Fallen Wings",
+			"rarity": "special",
+			"mana_cost": "{W}{B}{G}",
+			"type": "Creature — Angel",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/10.png"
+			}
+		},
+		{
+			"name": "Yuvoth's Influence",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/11.png"
+			}
+		},
+		{
+			"name": "Demonic Conqueror",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zalkrein",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/12.png"
+			}
+		},
+		{
+			"name": "Zalkrein",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Zalkrein",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/13.png"
+			}
+		},
+		{
+			"name": "Skies of Annihilation",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{B}{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/14.png"
+			}
+		},
+		{
+			"name": "Veluryia, Gracious Wilderness",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Nation",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/15.png"
+			}
+		},
+		{
+			"name": "Bradchel, Technocracy",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Nation",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/16.png"
+			}
+		},
+		{
+			"name": "Fluffy Druid",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Enchantment Creature — Cat Faunid Druid",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/17.png"
+			}
+		},
+		{
+			"name": "Serenra, Natural Home",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Nation",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/18.png"
+			}
+		},
+		{
+			"name": "Zalkrys, Voidborn Territory",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Nation",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/19.png"
+			}
+		},
+		{
+			"name": "Snow Huntress",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Creature — Cat Faunid Archer",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/20.png"
+			}
+		},
+		{
+			"name": "Vaeka, Animal Civilization",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land — Nation",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/21.png"
+			}
+		},
+		{
+			"name": "Deafening Roar",
+			"rarity": "special",
+			"mana_cost": "{W}{B}",
+			"type": "Instant",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/22.png"
+			}
+		},
+		{
+			"name": "Deathbound Grimoire",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}",
+			"type": "Enchantment",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/23.png"
+			}
+		},
+		{
+			"name": "Sky Claw",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Fox Faunid",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/24.png"
+			}
+		},
+		{
+			"name": "Faunid Nomad",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Creature — Faunid Nomad",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/25.png"
+			}
+		},
+		{
+			"name": "The Mirror",
+			"rarity": "special",
+			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
+			"type": "Kindred Enchantment — Empyrean",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/26.png"
+			}
+		},
+		{
+			"name": "Forest's Flamebringer",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{G}",
+			"type": "Creature — Dragon",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/27.png"
+			}
+		},
+		{
+			"name": "Razziel, Mist Puppeteer",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}{B}",
+			"type": "Legendary Creature — Cat Faunid Shaman",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/28.png"
+			}
+		},
+		{
+			"name": "Grievous Stray",
+			"rarity": "special",
+			"mana_cost": "{B}{B}{R}",
+			"type": "Enchantment Creature — Cat Horror",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/29.png"
+			}
+		},
+		{
+			"name": "Sophisticated Denial",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Instant",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/30.png"
+			}
+		},
+		{
+			"name": "Adventurous Beast",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Creature — Wolf Dragon Beast",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/31.png"
+			}
+		},
+		{
+			"name": "Wild Mirage",
+			"rarity": "special",
+			"mana_cost": "{G}{G}",
+			"type": "Enchantment",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/32.png"
+			}
+		},
+		{
+			"name": "Bismuth Rose",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Enchantment",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/33.png"
+			}
+		},
+		{
+			"name": "4th Wall Threat",
+			"rarity": "special",
+			"mana_cost": "{C/B}{C/B}{C/B}{C/B}",
+			"type": "Artifact",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/34.png"
+			}
+		},
+		{
+			"name": "Oblivious Kitty",
+			"rarity": "special",
+			"mana_cost": "{W}",
+			"type": "Enchantment Creature — Cat",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/35.png"
+			}
+		},
+		{
+			"name": "Licia of the Insurging Seas",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{U}",
+			"type": "Legendary Creature — Elf Shaman",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/36.png"
+			}
+		},
+		{
+			"name": "Purification Aura",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Legendary Enchantment",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/37.png"
+			}
+		},
+		{
+			"name": "Essence Keeper",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Creature — Wanderer",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/38.png"
+			}
+		},
+		{
+			"name": "Ninetailed Flamemaster",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox Faunid",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/39.png"
+			}
+		},
+		{
+			"name": "Pilot of the Skies",
+			"rarity": "special",
+			"mana_cost": "{2}{U}",
+			"type": "Creature — Wolf Faunid",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/40.png"
+			}
+		},
+		{
+			"name": "Lei Shai, Kitsune Temple Guard",
+			"rarity": "special",
+			"mana_cost": "{G}{W}",
+			"type": "Legendary Creature — Fox Faunid",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/41.png"
+			}
+		},
+		{
+			"name": "Vizzet's Quick Fighter",
+			"rarity": "special",
+			"mana_cost": "{U}{R}",
+			"type": "Creature — Bird Faunid Monk",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/42.png"
+			}
+		},
+		{
+			"name": "Vizzet, Master of Duality",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/43.png"
+			}
+		},
+		{
+			"name": "Entity Mirrorer",
+			"rarity": "special",
+			"mana_cost": "{B}{G}",
+			"type": "Enchantment",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/44.png"
+			}
+		},
+		{
+			"name": "Night Prowler",
+			"rarity": "special",
+			"mana_cost": "{1}{B/G}",
+			"type": "Creature — Zalkrein Wizard",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/45.png"
+			}
+		},
+		{
+			"name": "Khi'kxi, Revolute Evolver",
+			"rarity": "special",
+			"mana_cost": "{1}{B/R}{B/R}",
+			"type": "Legendary Creature — Zalkrein Horror",
+			"collector_number": "94",
+			"back": {
+				"name": "",
+				"type": "",
+				"image_uris": {
+					"en": "https://nekoniyah.github.io/sets/SYR-files/img/46_back.png"
+				}
+			},
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/46_front.png"
+			}
+		},
+		{
+			"name": "Snow Creep",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/47.png"
+			}
+		},
+		{
+			"name": "Abyss Traveler",
+			"rarity": "special",
+			"mana_cost": "{1}{W/B}{W/B}",
+			"type": "Creature — Human Archer",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/48.png"
+			}
+		},
+		{
+			"name": "Mayhem Angel",
+			"rarity": "special",
+			"mana_cost": "{R}{W}{B}",
+			"type": "Creature — Angel Warrior",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/49.png"
+			}
+		},
+		{
+			"name": "Spiritualizing Sky",
+			"rarity": "special",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Enchantment",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/50.png"
+			}
+		},
+		{
+			"name": "Rejuvinating Heights",
+			"rarity": "special",
+			"mana_cost": "{G}{W}{U}",
+			"type": "Enchantment",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/51.png"
+			}
+		},
+		{
+			"name": "Rejuvinating Engine",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Artifact",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/52.png"
+			}
+		},
+		{
+			"name": "Merley, Beast Empowerer",
+			"rarity": "special",
+			"mana_cost": "{3}{G}{W}{W}",
+			"type": "Legendary Creature — Human Shaman",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/53.png"
+			}
+		},
+		{
+			"name": "Ryuu, Empyrean Prayer",
+			"rarity": "special",
+			"mana_cost": "{2}{G}{W}{U}",
+			"type": "Legendary Creature — Empyrean",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/54.png"
+			}
+		},
+		{
+			"name": "Corrupted Savanna",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Land",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/55.png"
+			}
+		},
+		{
+			"name": "Use Knowledge",
+			"rarity": "special",
+			"mana_cost": "{U}",
+			"type": "Instant",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/56.png"
+			}
+		},
+		{
+			"name": "Mayel, Midnight Battler",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{B}",
+			"type": "Legendary Creature — Human Warrior",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/57.png"
+			}
+		},
+		{
+			"name": "Icefood Huntress",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Archer",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/58.png"
+			}
+		},
+		{
+			"name": "Hammer of Shatters",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/59.png"
+			}
+		},
+		{
+			"name": "Cure",
+			"rarity": "special",
+			"mana_cost": "{G}",
+			"type": "Instant",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/60.png"
+			}
+		},
+		{
+			"name": "Ruins Protector",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact Creature — Scarecrow Spirit",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/61.png"
+			}
+		},
+		{
+			"name": "Ammo Reserve",
+			"rarity": "special",
+			"mana_cost": "{R}{W}",
+			"type": "Artifact",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/62.png"
+			}
+		},
+		{
+			"name": "Travellers Campement",
+			"rarity": "special",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact — Fortification",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/63.png"
+			}
+		},
+		{
+			"name": "History Escapists",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Creature — Human Deserter",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/64.png"
+			}
+		},
+		{
+			"name": "Supply Manager",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{R}",
+			"type": "Creature — Human Artificer Soldier",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/65.png"
+			}
+		},
+		{
+			"name": "Intrepid Fighter",
+			"rarity": "special",
+			"mana_cost": "{R}",
+			"type": "Creature — Human Barbarian",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/66.png"
+			}
+		},
+		{
+			"name": "Armed Outlookers",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Creature — Human Citizen Soldier",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/67.png"
+			}
+		},
+		{
+			"name": "Admiral's Squadron",
+			"rarity": "special",
+			"mana_cost": "{1}{R}{W}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/68.png"
+			}
+		},
+		{
+			"name": "Plasma Canoneer",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Creature — Human Soldier",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/69.png"
+			}
+		},
+		{
+			"name": "Permanent Nomads",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{U}",
+			"type": "Creature — Human Survivor Deserter",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/70.png"
+			}
+		},
+		{
+			"name": "Zalkrein Poisoner",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Creature — Zalkrein",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/71.png"
+			}
+		},
+		{
+			"name": "Zalkrys' Conqueror",
+			"rarity": "special",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Creature — Zalkrein",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/72.png"
+			}
+		},
+		{
+			"name": "Yuvoth's Apparition",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{B}{R}",
+			"type": "Enchantment Creature — Saga Avatar Illusion",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/73.png"
+			}
+		},
+		{
+			"name": "Coming Clean",
+			"rarity": "special",
+			"mana_cost": "{4}{W}{W}",
+			"type": "Enchantment",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/74.png"
+			}
+		},
+		{
+			"name": "Quiet Pressure",
+			"rarity": "special",
+			"mana_cost": "{2}{B}",
+			"type": "Enchantment",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/75.png"
+			}
+		},
+		{
+			"name": "Trapped By Your innovation",
+			"rarity": "special",
+			"mana_cost": "{2}{W}",
+			"type": "Enchantment",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/76.png"
+			}
+		},
+		{
+			"name": "Will of Peace",
+			"rarity": "special",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Enchantment — Aura",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/77.png"
+			}
+		},
+		{
+			"name": "Will of Silence",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Enchantment — Aura",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/78.png"
+			}
+		},
+		{
+			"name": "Will of violence",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Enchantment — Aura",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/79.png"
+			}
+		},
+		{
+			"name": "Beastling summonning",
+			"rarity": "special",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Instant",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/80.png"
+			}
+		},
+		{
+			"name": "Heal Wounds",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Instant",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/81.png"
+			}
+		},
+		{
+			"name": "Magical Abundance",
+			"rarity": "special",
+			"mana_cost": "{2}{W}{U}",
+			"type": "Instant",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/82.png"
+			}
+		},
+		{
+			"name": "Trapped by the Darkness",
+			"rarity": "special",
+			"mana_cost": "{1}{B}",
+			"type": "Instant",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/83.png"
+			}
+		},
+		{
+			"name": "We Must Preserve!",
+			"rarity": "special",
+			"mana_cost": "{3}{W}{U}",
+			"type": "Instant",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/84.png"
+			}
+		},
+		{
+			"name": "Guided By Destiny",
+			"rarity": "special",
+			"mana_cost": "{W}{U}",
+			"type": "Kindred Enchantment — Aura Avatar",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/85.png"
+			}
+		},
+		{
+			"name": "Radiant Soul",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Kindred Enchantment — Aura Avatar",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/86.png"
+			}
+		},
+		{
+			"name": "Death Upon",
+			"rarity": "special",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Kindred Instant — Avatar",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/87.png"
+			}
+		},
+		{
+			"name": "Existence Shattering",
+			"rarity": "special",
+			"mana_cost": "{R}{R}{R}",
+			"type": "Kindred Sorcery — Avatar",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/88.png"
+			}
+		},
+		{
+			"name": "Eldritch Encounter",
+			"rarity": "special",
+			"mana_cost": "{B}",
+			"type": "Kindred Sorcery — Zalkrein",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/89.png"
+			}
+		},
+		{
+			"name": "Prize Protection",
+			"rarity": "special",
+			"mana_cost": "{1}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/90.png"
+			}
+		},
+		{
+			"name": "Lysa, Yps Biggest Fan",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}",
+			"type": "Legendary Creature — Human Advisor",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/91.png"
+			}
+		},
+		{
+			"name": "George Yps, Master Crafter",
+			"rarity": "special",
+			"mana_cost": "{2}{U}{R}{W}",
+			"type": "Legendary Creature — Human Artificer",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/92.png"
+			}
+		},
+		{
+			"name": "Mary, Army Admiral",
+			"rarity": "special",
+			"mana_cost": "{3}{R}{W}",
+			"type": "Legendary Creature — Human Soldier",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/93.png"
+			}
+		},
+		{
+			"name": "Zalkrein Fear",
+			"rarity": "special",
+			"mana_cost": "{B}{R}",
+			"type": "Legendary Enchantment",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/94.png"
+			}
+		},
+		{
+			"name": "Take Possession for Money",
+			"rarity": "special",
+			"mana_cost": "{U}{B}",
+			"type": "Legendary Instant",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/95.png"
+			}
+		},
+		{
+			"name": "Mortuary of the Dread",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/96.png"
+			}
+		},
+		{
+			"name": "Zalkrein's Refuge",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Legendary Land",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/97.png"
+			}
+		},
+		{
+			"name": "Approaching the Negotiations",
+			"rarity": "special",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Sorcery",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/98.png"
+			}
+		},
+		{
+			"name": "Armed and Loaded",
+			"rarity": "special",
+			"mana_cost": "{1}{R}",
+			"type": "Sorcery",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/99.png"
+			}
+		},
+		{
+			"name": "Central Overcharge",
+			"rarity": "special",
+			"mana_cost": "{2}{R}",
+			"type": "Sorcery",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/100.png"
+			}
+		},
+		{
+			"name": "Key to Success",
+			"rarity": "special",
+			"mana_cost": "{9}{U}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/101.png"
+			}
+		},
+		{
+			"name": "Market Trading",
+			"rarity": "special",
+			"mana_cost": "{R}{R}",
+			"type": "Sorcery",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/102.png"
+			}
+		},
+		{
+			"name": "Scatter and Deploy",
+			"rarity": "special",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Sorcery",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/103.png"
+			}
+		},
+		{
+			"name": "Slow and Steady",
+			"rarity": "special",
+			"mana_cost": "{1}{U}",
+			"type": "Sorcery",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/104.png"
+			}
+		},
+		{
+			"name": "Spy Kit",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Equipment",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/105.png"
+			}
+		},
+		{
+			"name": "Encampment",
+			"rarity": "special",
+			"mana_cost": "",
+			"type": "Token Artifact — Fortification",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/106.png"
+			}
+		},
+		{
+			"name": "Javed, Diplomat",
+			"rarity": "special",
+			"mana_cost": "{W}{U}{B}{R}{G}",
+			"type": "Legendary Creature",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/107.png"
+			}
+		},
+		{
+			"name": "Traveling Season",
+			"rarity": "special",
+			"mana_cost": "{2}{G}",
+			"type": "Enchantment",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/108.png"
+			}
+		},
+		{
+			"name": "World Remodeler",
+			"rarity": "special",
+			"mana_cost": "{5}",
+			"type": "Artifact",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/109.png"
+			}
+		}
+	]
+
+[cube(15)]
+	1 Vulpes Traveller
+	1 Lightbound Songwriter
+	1 Fairy Guide
+	1 Transcended Chimera
+	1 Vital Magic
+	1 Etherbound Fantasy
+	1 Wisteria of Evolution
+	1 Void Spawn
+	1 Medieval General
+	1 Fallen Wings
+	1 Yuvoth's Influence
+	1 Demonic Conqueror
+	1 Skies of Annihilation
+	1 Veluryia, Gracious Wilderness
+	1 Bradchel, Technocracy
+	1 Fluffy Druid
+	1 Serenra, Natural Home
+	1 Zalkrys, Voidborn Territory
+	1 Snow Huntress
+	1 Vaeka, Animal Civilization
+	1 Deafening Roar
+	1 Deathbound Grimoire
+	1 Sky Claw
+	1 The Mirror
+	1 Forest's Flamebringer
+	1 Razziel, Mist Puppeteer
+	1 Grievous Stray
+	1 Sophisticated Denial
+	1 Adventurous Beast
+	1 Wild Mirage
+	1 Bismuth Rose
+	1 4th Wall Threat
+	1 Oblivious Kitty
+	1 Licia of the Insurging Seas
+	1 Purification Aura
+	1 Essence Keeper
+	1 Ninetailed Flamemaster
+	1 Pilot of the Skies
+	1 Lei Shai, Kitsune Temple Guard
+	1 Vizzet's Quick Fighter
+	1 Vizzet, Master of Duality
+	1 Entity Mirrorer
+	1 Night Prowler
+	1 Khi'kxi, Revolute Evolver
+	1 Snow Creep
+	1 Abyss Traveler
+	1 Mayhem Angel
+	1 Spiritualizing Sky
+	1 Rejuvinating Heights
+	1 Rejuvinating Engine
+	1 Merley, Beast Empowerer
+	1 Ryuu, Empyrean Prayer
+	1 Corrupted Savanna
+	1 Use Knowledge
+	1 Mayel, Midnight Battler
+	1 Icefood Huntress
+	1 Hammer of Shatters
+	1 Cure
+	1 Ruins Protector
+	1 Ammo Reserve
+	1 Travellers Campement
+	1 History Escapists
+	1 Supply Manager
+	1 Intrepid Fighter
+	1 Armed Outlookers
+	1 Admiral's Squadron
+	1 Plasma Canoneer
+	1 Permanent Nomads
+	1 Zalkrein Poisoner
+	1 Zalkrys' Conqueror
+	1 Yuvoth's Apparition
+	1 Coming Clean
+	1 Quiet Pressure
+	1 Trapped By Your innovation
+	1 Will of Peace
+	1 Will of Silence
+	1 Will of violence
+	1 Beastling summonning
+	1 Heal Wounds
+	1 Magical Abundance
+	1 Trapped by the Darkness
+	1 We Must Preserve!
+	1 Guided By Destiny
+	1 Radiant Soul
+	1 Death Upon
+	1 Existence Shattering
+	1 Eldritch Encounter
+	1 Prize Protection
+	1 Lysa, Yps Biggest Fan
+	1 George Yps, Master Crafter
+	1 Mary, Army Admiral
+	1 Zalkrein Fear
+	1 Take Possession for Money
+	1 Mortuary of the Dread
+	1 Zalkrein's Refuge
+	1 Approaching the Negotiations
+	1 Armed and Loaded
+	1 Central Overcharge
+	1 Key to Success
+	1 Market Trading
+	1 Scatter and Deploy
+	1 Slow and Steady
+	1 Javed, Diplomat
+	1 Traveling Season
+	1 World Remodeler
