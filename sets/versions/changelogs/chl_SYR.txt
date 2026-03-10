@@ -1,4 +1,230 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Vulpes Traveller
+
+Lightbound Songwriter
+
+Fairy Guide
+
+Transcended Chimera
+
+Vital Magic
+
+Etherbound Fantasy
+
+Wisteria of Evolution
+
+Void Spawn
+
+Medieval General
+
+Human Soldier
+
+Fallen Wings
+
+Yuvoth's Influence
+
+Demonic Conqueror
+
+Zalkrein
+
+Skies of Annihilation
+
+Veluryia, Gracious Wilderness
+
+Bradchel, Technocracy
+
+Fluffy Druid
+
+Serenra, Natural Home
+
+Zalkrys, Voidborn Territory
+
+Snow Huntress
+
+Vaeka, Animal Civilization
+
+Deafening Roar
+
+Deathbound Grimoire
+
+Sky Claw
+
+Faunid Nomad
+
+The Mirror
+
+Forest's Flamebringer
+
+Razziel, Mist Puppeteer
+
+Grievous Stray
+
+Sophisticated Denial
+
+Adventurous Beast
+
+Wild Mirage
+
+Bismuth Rose
+
+4th Wall Threat
+
+Oblivious Kitty
+
+Licia of the Insurging Seas
+
+Purification Aura
+
+Essence Keeper
+
+Ninetailed Flamemaster
+
+Pilot of the Skies
+
+Lei Shai, Kitsune Temple Guard
+
+Vizzet's Quick Fighter
+
+Vizzet, Master of Duality
+
+Entity Mirrorer
+
+Night Prowler
+
+Khi'kxi, Revolute Evolver
+
+Snow Creep
+
+Abyss Traveler
+
+Mayhem Angel
+
+Spiritualizing Sky
+
+Rejuvinating Heights
+
+Rejuvinating Engine
+
+Merley, Beast Empowerer
+
+Ryuu, Empyrean Prayer
+
+Corrupted Savanna
+
+Use Knowledge
+
+Mayel, Midnight Battler
+
+Icefood Huntress
+
+Hammer of Shatters
+
+Cure
+
+Ruins Protector
+
+Ammo Reserve
+
+Travellers Campement
+
+History Escapists
+
+Supply Manager
+
+Intrepid Fighter
+
+Armed Outlookers
+
+Admiral's Squadron
+
+Plasma Canoneer
+
+Permanent Nomads
+
+Zalkrein Poisoner
+
+Zalkrys' Conqueror
+
+Yuvoth's Apparition
+
+Coming Clean
+
+Quiet Pressure
+
+Trapped By Your innovation
+
+Will of Peace
+
+Will of Silence
+
+Will of violence
+
+Beastling summonning
+
+Heal Wounds
+
+Magical Abundance
+
+Trapped by the Darkness
+
+We Must Preserve!
+
+Guided By Destiny
+
+Radiant Soul
+
+Death Upon
+
+Existence Shattering
+
+Eldritch Encounter
+
+Prize Protection
+
+Lysa, Yps Biggest Fan
+
+George Yps, Master Crafter
+
+Mary, Army Admiral
+
+Zalkrein Fear
+
+Take Possession for Money
+
+Mortuary of the Dread
+
+Zalkrein's Refuge
+
+Approaching the Negotiations
+
+Armed and Loaded
+
+Central Overcharge
+
+Key to Success
+
+Market Trading
+
+Scatter and Deploy
+
+Slow and Steady
+
+Spy Kit
+
+Encampment
+
+Javed, Diplomat
+
+Traveling Season
+
+World Remodeler
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.

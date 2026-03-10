@@ -2,7 +2,7 @@
 	[
 		{
 			"name": "Vulpes Traveller",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fox Faunid",
 			"collector_number": "47",
@@ -12,7 +12,7 @@
 		},
 		{
 			"name": "Lightbound Songwriter",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Creature — Cat Faunid Bard",
 			"collector_number": "7",
@@ -22,7 +22,7 @@
 		},
 		{
 			"name": "Fairy Guide",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Enchantment Creature — Fairy Spirit",
 			"collector_number": "16",
@@ -32,7 +32,7 @@
 		},
 		{
 			"name": "Transcended Chimera",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{R}{R}",
 			"type": "Enchantment Creature — Zalkrein Bird",
 			"collector_number": "86",
@@ -42,7 +42,7 @@
 		},
 		{
 			"name": "Vital Magic",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Sorcery",
 			"collector_number": "96",
@@ -52,7 +52,7 @@
 		},
 		{
 			"name": "Etherbound Fantasy",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Instant",
 			"collector_number": "56",
@@ -62,7 +62,7 @@
 		},
 		{
 			"name": "Wisteria of Evolution",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Enchantment",
 			"collector_number": "90",
@@ -72,7 +72,7 @@
 		},
 		{
 			"name": "Void Spawn",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Zalkrein",
 			"collector_number": "28",
@@ -82,7 +82,7 @@
 		},
 		{
 			"name": "Medieval General",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human",
 			"collector_number": "38",
@@ -92,7 +92,7 @@
 		},
 		{
 			"name": "Human Soldier",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Human Soldier",
 			"collector_number": "2",
@@ -102,7 +102,7 @@
 		},
 		{
 			"name": "Fallen Wings",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Creature — Angel",
 			"collector_number": "57",
@@ -112,7 +112,7 @@
 		},
 		{
 			"name": "Yuvoth's Influence",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "41",
@@ -122,7 +122,7 @@
 		},
 		{
 			"name": "Demonic Conqueror",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zalkrein",
 			"collector_number": "23",
@@ -132,7 +132,7 @@
 		},
 		{
 			"name": "Zalkrein",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Zalkrein",
 			"collector_number": "1",
@@ -142,7 +142,7 @@
 		},
 		{
 			"name": "Skies of Annihilation",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}{B}{B}{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "80",
@@ -152,7 +152,7 @@
 		},
 		{
 			"name": "Veluryia, Gracious Wilderness",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
 			"collector_number": "103",
@@ -162,7 +162,7 @@
 		},
 		{
 			"name": "Bradchel, Technocracy",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
 			"collector_number": "98",
@@ -172,7 +172,7 @@
 		},
 		{
 			"name": "Fluffy Druid",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Cat Faunid Druid",
 			"collector_number": "45",
@@ -182,7 +182,7 @@
 		},
 		{
 			"name": "Serenra, Natural Home",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
 			"collector_number": "101",
@@ -192,7 +192,7 @@
 		},
 		{
 			"name": "Zalkrys, Voidborn Territory",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
 			"collector_number": "105",
@@ -202,7 +202,7 @@
 		},
 		{
 			"name": "Snow Huntress",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Cat Faunid Archer",
 			"collector_number": "82",
@@ -212,7 +212,7 @@
 		},
 		{
 			"name": "Vaeka, Animal Civilization",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
 			"collector_number": "102",
@@ -222,7 +222,7 @@
 		},
 		{
 			"name": "Deafening Roar",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
 			"collector_number": "52",
@@ -232,7 +232,7 @@
 		},
 		{
 			"name": "Deathbound Grimoire",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
 			"collector_number": "54",
@@ -242,7 +242,7 @@
 		},
 		{
 			"name": "Sky Claw",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Fox Faunid",
 			"collector_number": "81",
@@ -252,7 +252,7 @@
 		},
 		{
 			"name": "Faunid Nomad",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Creature — Faunid Nomad",
 			"collector_number": "3",
@@ -262,7 +262,7 @@
 		},
 		{
 			"name": "The Mirror",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Kindred Enchantment — Empyrean",
 			"collector_number": "72",
@@ -272,7 +272,7 @@
 		},
 		{
 			"name": "Forest's Flamebringer",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dragon",
 			"collector_number": "58",
@@ -282,7 +282,7 @@
 		},
 		{
 			"name": "Razziel, Mist Puppeteer",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Cat Faunid Shaman",
 			"collector_number": "75",
@@ -292,7 +292,7 @@
 		},
 		{
 			"name": "Grievous Stray",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}",
 			"type": "Enchantment Creature — Cat Horror",
 			"collector_number": "60",
@@ -302,7 +302,7 @@
 		},
 		{
 			"name": "Sophisticated Denial",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Instant",
 			"collector_number": "20",
@@ -312,7 +312,7 @@
 		},
 		{
 			"name": "Adventurous Beast",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Creature — Wolf Dragon Beast",
 			"collector_number": "2",
@@ -322,7 +322,7 @@
 		},
 		{
 			"name": "Wild Mirage",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
 			"collector_number": "48",
@@ -332,7 +332,7 @@
 		},
 		{
 			"name": "Bismuth Rose",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Enchantment",
 			"collector_number": "15",
@@ -342,7 +342,7 @@
 		},
 		{
 			"name": "4th Wall Threat",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{C/B}{C/B}{C/B}{C/B}",
 			"type": "Artifact",
 			"collector_number": "22",
@@ -352,7 +352,7 @@
 		},
 		{
 			"name": "Oblivious Kitty",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}",
 			"type": "Enchantment Creature — Cat",
 			"collector_number": "8",
@@ -362,7 +362,7 @@
 		},
 		{
 			"name": "Licia of the Insurging Seas",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Elf Shaman",
 			"collector_number": "65",
@@ -372,7 +372,7 @@
 		},
 		{
 			"name": "Purification Aura",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}{W}",
 			"type": "Legendary Enchantment",
 			"collector_number": "10",
@@ -382,7 +382,7 @@
 		},
 		{
 			"name": "Essence Keeper",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Wanderer",
 			"collector_number": "44",
@@ -392,7 +392,7 @@
 		},
 		{
 			"name": "Ninetailed Flamemaster",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Fox Faunid",
 			"collector_number": "39",
@@ -402,7 +402,7 @@
 		},
 		{
 			"name": "Pilot of the Skies",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{U}",
 			"type": "Creature — Wolf Faunid",
 			"collector_number": "17",
@@ -412,7 +412,7 @@
 		},
 		{
 			"name": "Lei Shai, Kitsune Temple Guard",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Fox Faunid",
 			"collector_number": "64",
@@ -422,7 +422,7 @@
 		},
 		{
 			"name": "Vizzet's Quick Fighter",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Bird Faunid Monk",
 			"collector_number": "88",
@@ -432,7 +432,7 @@
 		},
 		{
 			"name": "Vizzet, Master of Duality",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "87",
@@ -442,7 +442,7 @@
 		},
 		{
 			"name": "Entity Mirrorer",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
 			"collector_number": "55",
@@ -452,7 +452,7 @@
 		},
 		{
 			"name": "Night Prowler",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Zalkrein Wizard",
 			"collector_number": "95",
@@ -462,7 +462,7 @@
 		},
 		{
 			"name": "Khi'kxi, Revolute Evolver",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zalkrein Horror",
 			"collector_number": "94",
@@ -479,7 +479,7 @@
 		},
 		{
 			"name": "Snow Creep",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature",
 			"collector_number": "26",
@@ -489,7 +489,7 @@
 		},
 		{
 			"name": "Abyss Traveler",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Human Archer",
 			"collector_number": "93",
@@ -499,7 +499,7 @@
 		},
 		{
 			"name": "Mayhem Angel",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Angel Warrior",
 			"collector_number": "70",
@@ -509,7 +509,7 @@
 		},
 		{
 			"name": "Spiritualizing Sky",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "83",
@@ -519,7 +519,7 @@
 		},
 		{
 			"name": "Rejuvinating Heights",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Enchantment",
 			"collector_number": "77",
@@ -529,7 +529,7 @@
 		},
 		{
 			"name": "Rejuvinating Engine",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Artifact",
 			"collector_number": "76",
@@ -539,7 +539,7 @@
 		},
 		{
 			"name": "Merley, Beast Empowerer",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{W}",
 			"type": "Legendary Creature — Human Shaman",
 			"collector_number": "71",
@@ -549,7 +549,7 @@
 		},
 		{
 			"name": "Ryuu, Empyrean Prayer",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Empyrean",
 			"collector_number": "78",
@@ -559,7 +559,7 @@
 		},
 		{
 			"name": "Corrupted Savanna",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
 			"collector_number": "99",
@@ -569,7 +569,7 @@
 		},
 		{
 			"name": "Use Knowledge",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{U}",
 			"type": "Instant",
 			"collector_number": "21",
@@ -579,7 +579,7 @@
 		},
 		{
 			"name": "Mayel, Midnight Battler",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Warrior",
 			"collector_number": "69",
@@ -589,7 +589,7 @@
 		},
 		{
 			"name": "Icefood Huntress",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Archer",
 			"collector_number": "6",
@@ -599,7 +599,7 @@
 		},
 		{
 			"name": "Hammer of Shatters",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
 			"collector_number": "35",
@@ -609,7 +609,7 @@
 		},
 		{
 			"name": "Cure",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
 			"collector_number": "43",
@@ -619,7 +619,7 @@
 		},
 		{
 			"name": "Ruins Protector",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Artifact Creature — Scarecrow Spirit",
 			"collector_number": "18",
@@ -629,7 +629,7 @@
 		},
 		{
 			"name": "Ammo Reserve",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact",
 			"collector_number": "50",
@@ -639,7 +639,7 @@
 		},
 		{
 			"name": "Travellers Campement",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{3}{W}",
 			"type": "Artifact — Fortification",
 			"collector_number": "12",
@@ -649,7 +649,7 @@
 		},
 		{
 			"name": "History Escapists",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Creature — Human Deserter",
 			"collector_number": "5",
@@ -659,7 +659,7 @@
 		},
 		{
 			"name": "Supply Manager",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Artificer Soldier",
 			"collector_number": "84",
@@ -669,7 +669,7 @@
 		},
 		{
 			"name": "Intrepid Fighter",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Barbarian",
 			"collector_number": "36",
@@ -679,7 +679,7 @@
 		},
 		{
 			"name": "Armed Outlookers",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Human Citizen Soldier",
 			"collector_number": "51",
@@ -689,7 +689,7 @@
 		},
 		{
 			"name": "Admiral's Squadron",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "49",
@@ -699,7 +699,7 @@
 		},
 		{
 			"name": "Plasma Canoneer",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Soldier",
 			"collector_number": "74",
@@ -709,7 +709,7 @@
 		},
 		{
 			"name": "Permanent Nomads",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Creature — Human Survivor Deserter",
 			"collector_number": "73",
@@ -719,7 +719,7 @@
 		},
 		{
 			"name": "Zalkrein Poisoner",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zalkrein",
 			"collector_number": "30",
@@ -729,7 +729,7 @@
 		},
 		{
 			"name": "Zalkrys' Conqueror",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zalkrein",
 			"collector_number": "31",
@@ -739,7 +739,7 @@
 		},
 		{
 			"name": "Yuvoth's Apparition",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Enchantment Creature — Saga Avatar Illusion",
 			"collector_number": "91",
@@ -749,7 +749,7 @@
 		},
 		{
 			"name": "Coming Clean",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{4}{W}{W}",
 			"type": "Enchantment",
 			"collector_number": "3",
@@ -759,7 +759,7 @@
 		},
 		{
 			"name": "Quiet Pressure",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
 			"collector_number": "25",
@@ -769,7 +769,7 @@
 		},
 		{
 			"name": "Trapped By Your innovation",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{2}{W}",
 			"type": "Enchantment",
 			"collector_number": "11",
@@ -779,7 +779,7 @@
 		},
 		{
 			"name": "Will of Peace",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}{W}",
 			"type": "Enchantment — Aura",
 			"collector_number": "13",
@@ -789,7 +789,7 @@
 		},
 		{
 			"name": "Will of Silence",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment — Aura",
 			"collector_number": "29",
@@ -799,7 +799,7 @@
 		},
 		{
 			"name": "Will of violence",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Aura",
 			"collector_number": "40",
@@ -809,7 +809,7 @@
 		},
 		{
 			"name": "Beastling summonning",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Instant",
 			"collector_number": "42",
@@ -819,7 +819,7 @@
 		},
 		{
 			"name": "Heal Wounds",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{W}",
 			"type": "Instant",
 			"collector_number": "4",
@@ -829,7 +829,7 @@
 		},
 		{
 			"name": "Magical Abundance",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
 			"collector_number": "67",
@@ -839,7 +839,7 @@
 		},
 		{
 			"name": "Trapped by the Darkness",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
 			"collector_number": "27",
@@ -849,7 +849,7 @@
 		},
 		{
 			"name": "We Must Preserve!",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Instant",
 			"collector_number": "89",
@@ -859,7 +859,7 @@
 		},
 		{
 			"name": "Guided By Destiny",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Kindred Enchantment — Aura Avatar",
 			"collector_number": "61",
@@ -869,7 +869,7 @@
 		},
 		{
 			"name": "Radiant Soul",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{5}",
 			"type": "Kindred Enchantment — Aura Avatar",
 			"collector_number": "1",
@@ -879,7 +879,7 @@
 		},
 		{
 			"name": "Death Upon",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Kindred Instant — Avatar",
 			"collector_number": "53",
@@ -889,7 +889,7 @@
 		},
 		{
 			"name": "Existence Shattering",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Kindred Sorcery — Avatar",
 			"collector_number": "34",
@@ -899,7 +899,7 @@
 		},
 		{
 			"name": "Eldritch Encounter",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Kindred Sorcery — Zalkrein",
 			"collector_number": "24",
@@ -909,7 +909,7 @@
 		},
 		{
 			"name": "Prize Protection",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{W}",
 			"type": "Legendary Artifact",
 			"collector_number": "9",
@@ -919,7 +919,7 @@
 		},
 		{
 			"name": "Lysa, Yps Biggest Fan",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Advisor",
 			"collector_number": "66",
@@ -929,7 +929,7 @@
 		},
 		{
 			"name": "George Yps, Master Crafter",
-			"rarity": "special",
+			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — Human Artificer",
 			"collector_number": "59",
@@ -939,7 +939,7 @@
 		},
 		{
 			"name": "Mary, Army Admiral",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Soldier",
 			"collector_number": "68",
@@ -949,7 +949,7 @@
 		},
 		{
 			"name": "Zalkrein Fear",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Enchantment",
 			"collector_number": "92",
@@ -959,7 +959,7 @@
 		},
 		{
 			"name": "Take Possession for Money",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Instant",
 			"collector_number": "85",
@@ -969,7 +969,7 @@
 		},
 		{
 			"name": "Mortuary of the Dread",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "100",
@@ -979,7 +979,7 @@
 		},
 		{
 			"name": "Zalkrein's Refuge",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
 			"collector_number": "104",
@@ -989,7 +989,7 @@
 		},
 		{
 			"name": "Approaching the Negotiations",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{U}",
 			"type": "Sorcery",
 			"collector_number": "14",
@@ -999,7 +999,7 @@
 		},
 		{
 			"name": "Armed and Loaded",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
 			"collector_number": "32",
@@ -1009,7 +1009,7 @@
 		},
 		{
 			"name": "Central Overcharge",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
 			"collector_number": "33",
@@ -1019,7 +1019,7 @@
 		},
 		{
 			"name": "Key to Success",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{9}{U}{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "63",
@@ -1029,7 +1029,7 @@
 		},
 		{
 			"name": "Market Trading",
-			"rarity": "special",
+			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
 			"collector_number": "37",
@@ -1039,7 +1039,7 @@
 		},
 		{
 			"name": "Scatter and Deploy",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Sorcery",
 			"collector_number": "79",
@@ -1049,7 +1049,7 @@
 		},
 		{
 			"name": "Slow and Steady",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{1}{U}",
 			"type": "Sorcery",
 			"collector_number": "19",
@@ -1059,7 +1059,7 @@
 		},
 		{
 			"name": "Spy Kit",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Equipment",
 			"collector_number": "5",
@@ -1069,7 +1069,7 @@
 		},
 		{
 			"name": "Encampment",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "",
 			"type": "Token Artifact — Fortification",
 			"collector_number": "4",
@@ -1079,7 +1079,7 @@
 		},
 		{
 			"name": "Javed, Diplomat",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature",
 			"collector_number": "62",
@@ -1089,7 +1089,7 @@
 		},
 		{
 			"name": "Traveling Season",
-			"rarity": "special",
+			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
 			"collector_number": "46",
@@ -1099,7 +1099,7 @@
 		},
 		{
 			"name": "World Remodeler",
-			"rarity": "special",
+			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
 			"collector_number": "97",
@@ -1109,109 +1109,368 @@
 		}
 	]
 
-[cube(15)]
-	1 Vulpes Traveller
-	1 Lightbound Songwriter
-	1 Fairy Guide
-	1 Transcended Chimera
-	1 Vital Magic
-	1 Etherbound Fantasy
-	1 Wisteria of Evolution
-	1 Void Spawn
-	1 Medieval General
-	1 Fallen Wings
-	1 Yuvoth's Influence
-	1 Demonic Conqueror
-	1 Skies of Annihilation
-	1 Veluryia, Gracious Wilderness
-	1 Bradchel, Technocracy
-	1 Fluffy Druid
-	1 Serenra, Natural Home
-	1 Zalkrys, Voidborn Territory
-	1 Snow Huntress
-	1 Vaeka, Animal Civilization
-	1 Deafening Roar
-	1 Deathbound Grimoire
-	1 Sky Claw
+[rare(1)]
+	2 Transcended Chimera
+	2 Etherbound Fantasy
+	2 Wisteria of Evolution
 	1 The Mirror
-	1 Forest's Flamebringer
 	1 Razziel, Mist Puppeteer
-	1 Grievous Stray
-	1 Sophisticated Denial
-	1 Adventurous Beast
-	1 Wild Mirage
-	1 Bismuth Rose
-	1 4th Wall Threat
-	1 Oblivious Kitty
-	1 Licia of the Insurging Seas
-	1 Purification Aura
-	1 Essence Keeper
-	1 Ninetailed Flamemaster
-	1 Pilot of the Skies
-	1 Lei Shai, Kitsune Temple Guard
-	1 Vizzet's Quick Fighter
-	1 Vizzet, Master of Duality
-	1 Entity Mirrorer
-	1 Night Prowler
+	2 Grievous Stray
+	2 Purification Aura
+	2 Lei Shai, Kitsune Temple Guard
+	2 Entity Mirrorer
 	1 Khi'kxi, Revolute Evolver
-	1 Snow Creep
-	1 Abyss Traveler
-	1 Mayhem Angel
-	1 Spiritualizing Sky
-	1 Rejuvinating Heights
-	1 Rejuvinating Engine
 	1 Merley, Beast Empowerer
 	1 Ryuu, Empyrean Prayer
-	1 Corrupted Savanna
-	1 Use Knowledge
-	1 Mayel, Midnight Battler
-	1 Icefood Huntress
-	1 Hammer of Shatters
-	1 Cure
-	1 Ruins Protector
-	1 Ammo Reserve
-	1 Travellers Campement
-	1 History Escapists
-	1 Supply Manager
-	1 Intrepid Fighter
-	1 Armed Outlookers
-	1 Admiral's Squadron
-	1 Plasma Canoneer
-	1 Permanent Nomads
-	1 Zalkrein Poisoner
-	1 Zalkrys' Conqueror
-	1 Yuvoth's Apparition
-	1 Coming Clean
-	1 Quiet Pressure
-	1 Trapped By Your innovation
-	1 Will of Peace
-	1 Will of Silence
-	1 Will of violence
-	1 Beastling summonning
-	1 Heal Wounds
-	1 Magical Abundance
-	1 Trapped by the Darkness
-	1 We Must Preserve!
-	1 Guided By Destiny
-	1 Radiant Soul
-	1 Death Upon
-	1 Existence Shattering
-	1 Eldritch Encounter
-	1 Prize Protection
-	1 Lysa, Yps Biggest Fan
+	2 Mayel, Midnight Battler
+	2 Intrepid Fighter
+	2 Trapped By Your innovation
+	2 Beastling summonning
+	2 We Must Preserve!
 	1 George Yps, Master Crafter
-	1 Mary, Army Admiral
-	1 Zalkrein Fear
-	1 Take Possession for Money
-	1 Mortuary of the Dread
-	1 Zalkrein's Refuge
-	1 Approaching the Negotiations
-	1 Armed and Loaded
-	1 Central Overcharge
-	1 Key to Success
-	1 Market Trading
-	1 Scatter and Deploy
-	1 Slow and Steady
-	1 Javed, Diplomat
-	1 Traveling Season
-	1 World Remodeler
+	2 Key to Success
+	2 Market Trading
+[uncommon(3)]
+	4 Skies of Annihilation
+	4 Veluryia, Gracious Wilderness
+	4 Bradchel, Technocracy
+	4 Serenra, Natural Home
+	4 Zalkrys, Voidborn Territory
+	4 Vaeka, Animal Civilization
+	4 Forest's Flamebringer
+	4 4th Wall Threat
+	4 Licia of the Insurging Seas
+	4 Essence Keeper
+	4 Vizzet's Quick Fighter
+	4 Vizzet, Master of Duality
+	4 Snow Creep
+	4 Mayhem Angel
+	4 Spiritualizing Sky
+	4 Rejuvinating Heights
+	4 Rejuvinating Engine
+	4 Corrupted Savanna
+	4 Icefood Huntress
+	4 Ammo Reserve
+	4 Supply Manager
+	4 Armed Outlookers
+	4 Admiral's Squadron
+	4 Plasma Canoneer
+	4 Yuvoth's Apparition
+	4 Coming Clean
+	4 Quiet Pressure
+	4 Will of Peace
+	4 Will of Silence
+	4 Will of violence
+	4 Magical Abundance
+	4 Prize Protection
+	4 Lysa, Yps Biggest Fan
+	4 Mary, Army Admiral
+	4 Zalkrein Fear
+	4 Take Possession for Money
+	4 Mortuary of the Dread
+	4 Zalkrein's Refuge
+	4 Approaching the Negotiations
+	4 Javed, Diplomat
+	4 World Remodeler
+[common(6)]
+	8 Vulpes Traveller
+	8 Lightbound Songwriter
+	8 Fairy Guide
+	8 Vital Magic
+	8 Void Spawn
+	8 Medieval General
+	8 Fallen Wings
+	8 Yuvoth's Influence
+	8 Demonic Conqueror
+	8 Fluffy Druid
+	8 Snow Huntress
+	8 Deafening Roar
+	8 Deathbound Grimoire
+	8 Sky Claw
+	8 Sophisticated Denial
+	8 Adventurous Beast
+	8 Wild Mirage
+	8 Bismuth Rose
+	8 Oblivious Kitty
+	8 Ninetailed Flamemaster
+	8 Pilot of the Skies
+	8 Night Prowler
+	8 Abyss Traveler
+	8 Use Knowledge
+	8 Hammer of Shatters
+	8 Cure
+	8 Ruins Protector
+	8 Travellers Campement
+	8 History Escapists
+	8 Permanent Nomads
+	8 Zalkrein Poisoner
+	8 Zalkrys' Conqueror
+	8 Heal Wounds
+	8 Trapped by the Darkness
+	8 Guided By Destiny
+	8 Radiant Soul
+	8 Death Upon
+	8 Existence Shattering
+	8 Eldritch Encounter
+	8 Armed and Loaded
+	8 Central Overcharge
+	8 Scatter and Deploy
+	8 Slow and Steady
+	8 Traveling Season
+[common | masterpiece(1)]
+	8 Vulpes Traveller
+	8 Lightbound Songwriter
+	8 Fairy Guide
+	8 Vital Magic
+	8 Void Spawn
+	8 Medieval General
+	8 Fallen Wings
+	8 Yuvoth's Influence
+	8 Demonic Conqueror
+	8 Fluffy Druid
+	8 Snow Huntress
+	8 Deafening Roar
+	8 Deathbound Grimoire
+	8 Sky Claw
+	8 Sophisticated Denial
+	8 Adventurous Beast
+	8 Wild Mirage
+	8 Bismuth Rose
+	8 Oblivious Kitty
+	8 Ninetailed Flamemaster
+	8 Pilot of the Skies
+	8 Night Prowler
+	8 Abyss Traveler
+	8 Use Knowledge
+	8 Hammer of Shatters
+	8 Cure
+	8 Ruins Protector
+	8 Travellers Campement
+	8 History Escapists
+	8 Permanent Nomads
+	8 Zalkrein Poisoner
+	8 Zalkrys' Conqueror
+	8 Heal Wounds
+	8 Trapped by the Darkness
+	8 Guided By Destiny
+	8 Radiant Soul
+	8 Death Upon
+	8 Existence Shattering
+	8 Eldritch Encounter
+	8 Armed and Loaded
+	8 Central Overcharge
+	8 Scatter and Deploy
+	8 Slow and Steady
+	8 Traveling Season
+[foil(1)]
+	12 Vulpes Traveller
+	12 Lightbound Songwriter
+	12 Fairy Guide
+	2 Transcended Chimera
+	12 Vital Magic
+	2 Etherbound Fantasy
+	2 Wisteria of Evolution
+	12 Void Spawn
+	12 Medieval General
+	12 Fallen Wings
+	12 Yuvoth's Influence
+	12 Demonic Conqueror
+	6 Skies of Annihilation
+	6 Veluryia, Gracious Wilderness
+	6 Bradchel, Technocracy
+	12 Fluffy Druid
+	6 Serenra, Natural Home
+	6 Zalkrys, Voidborn Territory
+	12 Snow Huntress
+	6 Vaeka, Animal Civilization
+	12 Deafening Roar
+	12 Deathbound Grimoire
+	12 Sky Claw
+	1 The Mirror
+	6 Forest's Flamebringer
+	1 Razziel, Mist Puppeteer
+	2 Grievous Stray
+	12 Sophisticated Denial
+	12 Adventurous Beast
+	12 Wild Mirage
+	12 Bismuth Rose
+	6 4th Wall Threat
+	12 Oblivious Kitty
+	6 Licia of the Insurging Seas
+	2 Purification Aura
+	6 Essence Keeper
+	12 Ninetailed Flamemaster
+	12 Pilot of the Skies
+	2 Lei Shai, Kitsune Temple Guard
+	6 Vizzet's Quick Fighter
+	6 Vizzet, Master of Duality
+	2 Entity Mirrorer
+	12 Night Prowler
+	1 Khi'kxi, Revolute Evolver
+	6 Snow Creep
+	12 Abyss Traveler
+	6 Mayhem Angel
+	6 Spiritualizing Sky
+	6 Rejuvinating Heights
+	6 Rejuvinating Engine
+	1 Merley, Beast Empowerer
+	1 Ryuu, Empyrean Prayer
+	6 Corrupted Savanna
+	12 Use Knowledge
+	2 Mayel, Midnight Battler
+	6 Icefood Huntress
+	12 Hammer of Shatters
+	12 Cure
+	12 Ruins Protector
+	6 Ammo Reserve
+	12 Travellers Campement
+	12 History Escapists
+	6 Supply Manager
+	2 Intrepid Fighter
+	6 Armed Outlookers
+	6 Admiral's Squadron
+	6 Plasma Canoneer
+	12 Permanent Nomads
+	12 Zalkrein Poisoner
+	12 Zalkrys' Conqueror
+	6 Yuvoth's Apparition
+	6 Coming Clean
+	6 Quiet Pressure
+	2 Trapped By Your innovation
+	6 Will of Peace
+	6 Will of Silence
+	6 Will of violence
+	2 Beastling summonning
+	12 Heal Wounds
+	6 Magical Abundance
+	12 Trapped by the Darkness
+	2 We Must Preserve!
+	12 Guided By Destiny
+	12 Radiant Soul
+	12 Death Upon
+	12 Existence Shattering
+	12 Eldritch Encounter
+	6 Prize Protection
+	6 Lysa, Yps Biggest Fan
+	1 George Yps, Master Crafter
+	6 Mary, Army Admiral
+	6 Zalkrein Fear
+	6 Take Possession for Money
+	6 Mortuary of the Dread
+	6 Zalkrein's Refuge
+	6 Approaching the Negotiations
+	12 Armed and Loaded
+	12 Central Overcharge
+	2 Key to Success
+	2 Market Trading
+	12 Scatter and Deploy
+	12 Slow and Steady
+	6 Javed, Diplomat
+	12 Traveling Season
+	6 World Remodeler
+[wildcard(1)]
+	6 Vulpes Traveller
+	6 Lightbound Songwriter
+	6 Fairy Guide
+	7 Transcended Chimera
+	6 Vital Magic
+	7 Etherbound Fantasy
+	7 Wisteria of Evolution
+	6 Void Spawn
+	6 Medieval General
+	6 Fallen Wings
+	6 Yuvoth's Influence
+	6 Demonic Conqueror
+	15 Skies of Annihilation
+	15 Veluryia, Gracious Wilderness
+	15 Bradchel, Technocracy
+	6 Fluffy Druid
+	15 Serenra, Natural Home
+	15 Zalkrys, Voidborn Territory
+	6 Snow Huntress
+	15 Vaeka, Animal Civilization
+	6 Deafening Roar
+	6 Deathbound Grimoire
+	6 Sky Claw
+	4 The Mirror
+	15 Forest's Flamebringer
+	4 Razziel, Mist Puppeteer
+	7 Grievous Stray
+	6 Sophisticated Denial
+	6 Adventurous Beast
+	6 Wild Mirage
+	6 Bismuth Rose
+	15 4th Wall Threat
+	6 Oblivious Kitty
+	15 Licia of the Insurging Seas
+	7 Purification Aura
+	15 Essence Keeper
+	6 Ninetailed Flamemaster
+	6 Pilot of the Skies
+	7 Lei Shai, Kitsune Temple Guard
+	15 Vizzet's Quick Fighter
+	15 Vizzet, Master of Duality
+	7 Entity Mirrorer
+	6 Night Prowler
+	4 Khi'kxi, Revolute Evolver
+	15 Snow Creep
+	6 Abyss Traveler
+	15 Mayhem Angel
+	15 Spiritualizing Sky
+	15 Rejuvinating Heights
+	15 Rejuvinating Engine
+	4 Merley, Beast Empowerer
+	4 Ryuu, Empyrean Prayer
+	15 Corrupted Savanna
+	6 Use Knowledge
+	7 Mayel, Midnight Battler
+	15 Icefood Huntress
+	6 Hammer of Shatters
+	6 Cure
+	6 Ruins Protector
+	15 Ammo Reserve
+	6 Travellers Campement
+	6 History Escapists
+	15 Supply Manager
+	7 Intrepid Fighter
+	15 Armed Outlookers
+	15 Admiral's Squadron
+	15 Plasma Canoneer
+	6 Permanent Nomads
+	6 Zalkrein Poisoner
+	6 Zalkrys' Conqueror
+	15 Yuvoth's Apparition
+	15 Coming Clean
+	15 Quiet Pressure
+	7 Trapped By Your innovation
+	15 Will of Peace
+	15 Will of Silence
+	15 Will of violence
+	7 Beastling summonning
+	6 Heal Wounds
+	15 Magical Abundance
+	6 Trapped by the Darkness
+	7 We Must Preserve!
+	6 Guided By Destiny
+	6 Radiant Soul
+	6 Death Upon
+	6 Existence Shattering
+	6 Eldritch Encounter
+	15 Prize Protection
+	15 Lysa, Yps Biggest Fan
+	4 George Yps, Master Crafter
+	15 Mary, Army Admiral
+	15 Zalkrein Fear
+	15 Take Possession for Money
+	15 Mortuary of the Dread
+	15 Zalkrein's Refuge
+	15 Approaching the Negotiations
+	6 Armed and Loaded
+	6 Central Overcharge
+	7 Key to Success
+	7 Market Trading
+	6 Scatter and Deploy
+	6 Slow and Steady
+	15 Javed, Diplomat
+	6 Traveling Season
+	15 World Remodeler

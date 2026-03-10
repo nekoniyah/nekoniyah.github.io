@@ -2,7 +2,7 @@
     "name": "Syrion: Ethereal Surge",
     "formats": "",
     "image_type": "png",
-    "draft_structure": "cube",
+    "draft_structure": "play booster",
     "unpreviewed": "card back",
     "image_name": "position",
     "v_mana": "",
@@ -10,7 +10,7 @@
         {
             "card_name": "Vulpes Traveller",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Fox Faunid",
             "number": 47,
             "color_identity": "WG",
@@ -31,7 +31,7 @@
         {
             "card_name": "Lightbound Songwriter",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Cat Faunid Bard",
             "number": 7,
             "color_identity": "W",
@@ -52,7 +52,7 @@
         {
             "card_name": "Fairy Guide",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2014 Fairy Spirit",
             "number": 16,
             "color_identity": "U",
@@ -73,7 +73,7 @@
         {
             "card_name": "Transcended Chimera",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment Creature \u2014 Zalkrein Bird",
             "number": 86,
             "color_identity": "UR",
@@ -94,7 +94,7 @@
         {
             "card_name": "Vital Magic",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 96,
             "color_identity": "WG",
@@ -115,7 +115,7 @@
         {
             "card_name": "Etherbound Fantasy",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 56,
             "color_identity": "WG",
@@ -136,7 +136,7 @@
         {
             "card_name": "Wisteria of Evolution",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 90,
             "color_identity": "WU",
@@ -157,7 +157,7 @@
         {
             "card_name": "Void Spawn",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Zalkrein",
             "number": 28,
             "color_identity": "B",
@@ -178,7 +178,7 @@
         {
             "card_name": "Medieval General",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Human",
             "number": 38,
             "color_identity": "R",
@@ -199,7 +199,7 @@
         {
             "card_name": "Human Soldier",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Human Soldier",
             "number": 2,
             "color_identity": "R",
@@ -220,7 +220,7 @@
         {
             "card_name": "Fallen Wings",
             "color": "WBG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Angel",
             "number": 57,
             "color_identity": "WBG",
@@ -241,7 +241,7 @@
         {
             "card_name": "Yuvoth's Influence",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 41,
             "color_identity": "R",
@@ -262,7 +262,7 @@
         {
             "card_name": "Demonic Conqueror",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Zalkrein",
             "number": 23,
             "color_identity": "B",
@@ -283,7 +283,7 @@
         {
             "card_name": "Zalkrein",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Zalkrein",
             "number": 1,
             "color_identity": "B",
@@ -304,7 +304,7 @@
         {
             "card_name": "Skies of Annihilation",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 80,
             "color_identity": "BR",
@@ -325,7 +325,7 @@
         {
             "card_name": "Veluryia, Gracious Wilderness",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land \u2014 Nation",
             "number": 103,
             "color_identity": "WUG",
@@ -346,7 +346,7 @@
         {
             "card_name": "Bradchel, Technocracy",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land \u2014 Nation",
             "number": 98,
             "color_identity": "WUR",
@@ -367,7 +367,7 @@
         {
             "card_name": "Fluffy Druid",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2014 Cat Faunid Druid",
             "number": 45,
             "color_identity": "G",
@@ -388,7 +388,7 @@
         {
             "card_name": "Serenra, Natural Home",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land \u2014 Nation",
             "number": 101,
             "color_identity": "WRG",
@@ -409,7 +409,7 @@
         {
             "card_name": "Zalkrys, Voidborn Territory",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land \u2014 Nation",
             "number": 105,
             "color_identity": "UBR",
@@ -430,7 +430,7 @@
         {
             "card_name": "Snow Huntress",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Cat Faunid Archer",
             "number": 82,
             "color_identity": "WG",
@@ -451,7 +451,7 @@
         {
             "card_name": "Vaeka, Animal Civilization",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land \u2014 Nation",
             "number": 102,
             "color_identity": "URG",
@@ -472,7 +472,7 @@
         {
             "card_name": "Deafening Roar",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 52,
             "color_identity": "WB",
@@ -493,7 +493,7 @@
         {
             "card_name": "Deathbound Grimoire",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 54,
             "color_identity": "UB",
@@ -514,7 +514,7 @@
         {
             "card_name": "Sky Claw",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Fox Faunid",
             "number": 81,
             "color_identity": "WR",
@@ -535,7 +535,7 @@
         {
             "card_name": "Faunid Nomad",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Creature \u2014 Faunid Nomad",
             "number": 3,
             "color_identity": "WU",
@@ -556,7 +556,7 @@
         {
             "card_name": "The Mirror",
             "color": "",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Kindred Enchantment \u2014 Empyrean",
             "number": 72,
             "color_identity": "WUBRG",
@@ -577,7 +577,7 @@
         {
             "card_name": "Forest's Flamebringer",
             "color": "RG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Dragon",
             "number": 58,
             "color_identity": "RG",
@@ -598,7 +598,7 @@
         {
             "card_name": "Razziel, Mist Puppeteer",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Cat Faunid Shaman",
             "number": 75,
             "color_identity": "WBR",
@@ -619,7 +619,7 @@
         {
             "card_name": "Grievous Stray",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment Creature \u2014 Cat Horror",
             "number": 60,
             "color_identity": "BR",
@@ -640,7 +640,7 @@
         {
             "card_name": "Sophisticated Denial",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 20,
             "color_identity": "U",
@@ -661,7 +661,7 @@
         {
             "card_name": "Adventurous Beast",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Wolf Dragon Beast",
             "number": 2,
             "color_identity": "W",
@@ -682,7 +682,7 @@
         {
             "card_name": "Wild Mirage",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 48,
             "color_identity": "G",
@@ -703,7 +703,7 @@
         {
             "card_name": "Bismuth Rose",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 15,
             "color_identity": "U",
@@ -724,7 +724,7 @@
         {
             "card_name": "4th Wall Threat",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Artifact",
             "number": 22,
             "color_identity": "B",
@@ -745,7 +745,7 @@
         {
             "card_name": "Oblivious Kitty",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment Creature \u2014 Cat",
             "number": 8,
             "color_identity": "W",
@@ -766,7 +766,7 @@
         {
             "card_name": "Licia of the Insurging Seas",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Elf Shaman",
             "number": 65,
             "color_identity": "UG",
@@ -787,7 +787,7 @@
         {
             "card_name": "Purification Aura",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Enchantment",
             "number": 10,
             "color_identity": "W",
@@ -808,7 +808,7 @@
         {
             "card_name": "Essence Keeper",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Wanderer",
             "number": 44,
             "color_identity": "G",
@@ -829,7 +829,7 @@
         {
             "card_name": "Ninetailed Flamemaster",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Fox Faunid",
             "number": 39,
             "color_identity": "R",
@@ -850,7 +850,7 @@
         {
             "card_name": "Pilot of the Skies",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Wolf Faunid",
             "number": 17,
             "color_identity": "U",
@@ -871,7 +871,7 @@
         {
             "card_name": "Lei Shai, Kitsune Temple Guard",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Fox Faunid",
             "number": 64,
             "color_identity": "WG",
@@ -892,7 +892,7 @@
         {
             "card_name": "Vizzet's Quick Fighter",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Bird Faunid Monk",
             "number": 88,
             "color_identity": "UR",
@@ -913,7 +913,7 @@
         {
             "card_name": "Vizzet, Master of Duality",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Warrior",
             "number": 87,
             "color_identity": "UR",
@@ -934,7 +934,7 @@
         {
             "card_name": "Entity Mirrorer",
             "color": "BG",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 55,
             "color_identity": "BG",
@@ -955,7 +955,7 @@
         {
             "card_name": "Night Prowler",
             "color": "BG",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Zalkrein Wizard",
             "number": 95,
             "color_identity": "BG",
@@ -976,7 +976,7 @@
         {
             "card_name": "Khi'kxi, Revolute Evolver",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Zalkrein Horror",
             "number": 94,
             "color_identity": "BR",
@@ -1009,7 +1009,7 @@
         {
             "card_name": "Snow Creep",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature",
             "number": 26,
             "color_identity": "B",
@@ -1030,7 +1030,7 @@
         {
             "card_name": "Abyss Traveler",
             "color": "WB",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Human Archer",
             "number": 93,
             "color_identity": "WB",
@@ -1051,7 +1051,7 @@
         {
             "card_name": "Mayhem Angel",
             "color": "WBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Angel Warrior",
             "number": 70,
             "color_identity": "WBR",
@@ -1072,7 +1072,7 @@
         {
             "card_name": "Spiritualizing Sky",
             "color": "UG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 83,
             "color_identity": "UG",
@@ -1093,7 +1093,7 @@
         {
             "card_name": "Rejuvinating Heights",
             "color": "WUG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 77,
             "color_identity": "WUG",
@@ -1114,7 +1114,7 @@
         {
             "card_name": "Rejuvinating Engine",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Artifact",
             "number": 76,
             "color_identity": "WR",
@@ -1135,7 +1135,7 @@
         {
             "card_name": "Merley, Beast Empowerer",
             "color": "WG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Shaman",
             "number": 71,
             "color_identity": "WG",
@@ -1156,7 +1156,7 @@
         {
             "card_name": "Ryuu, Empyrean Prayer",
             "color": "WUG",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Empyrean",
             "number": 78,
             "color_identity": "WUG",
@@ -1177,7 +1177,7 @@
         {
             "card_name": "Corrupted Savanna",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Land",
             "number": 99,
             "color_identity": "C",
@@ -1198,7 +1198,7 @@
         {
             "card_name": "Use Knowledge",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 21,
             "color_identity": "U",
@@ -1219,7 +1219,7 @@
         {
             "card_name": "Mayel, Midnight Battler",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Legendary Creature \u2014 Human Warrior",
             "number": 69,
             "color_identity": "UB",
@@ -1240,7 +1240,7 @@
         {
             "card_name": "Icefood Huntress",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Archer",
             "number": 6,
             "color_identity": "W",
@@ -1261,7 +1261,7 @@
         {
             "card_name": "Hammer of Shatters",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact",
             "number": 35,
             "color_identity": "R",
@@ -1282,7 +1282,7 @@
         {
             "card_name": "Cure",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 43,
             "color_identity": "G",
@@ -1303,7 +1303,7 @@
         {
             "card_name": "Ruins Protector",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact Creature \u2014 Scarecrow Spirit",
             "number": 18,
             "color_identity": "U",
@@ -1324,7 +1324,7 @@
         {
             "card_name": "Ammo Reserve",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Artifact",
             "number": 50,
             "color_identity": "WR",
@@ -1345,7 +1345,7 @@
         {
             "card_name": "Travellers Campement",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Artifact \u2014 Fortification",
             "number": 12,
             "color_identity": "W",
@@ -1366,7 +1366,7 @@
         {
             "card_name": "History Escapists",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Human Deserter",
             "number": 5,
             "color_identity": "W",
@@ -1387,7 +1387,7 @@
         {
             "card_name": "Supply Manager",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Artificer Soldier",
             "number": 84,
             "color_identity": "UR",
@@ -1408,7 +1408,7 @@
         {
             "card_name": "Intrepid Fighter",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Creature \u2014 Human Barbarian",
             "number": 36,
             "color_identity": "R",
@@ -1429,7 +1429,7 @@
         {
             "card_name": "Armed Outlookers",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Citizen Soldier",
             "number": 51,
             "color_identity": "WU",
@@ -1450,7 +1450,7 @@
         {
             "card_name": "Admiral's Squadron",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier",
             "number": 49,
             "color_identity": "WR",
@@ -1471,7 +1471,7 @@
         {
             "card_name": "Plasma Canoneer",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Creature \u2014 Human Soldier",
             "number": 74,
             "color_identity": "UR",
@@ -1492,7 +1492,7 @@
         {
             "card_name": "Permanent Nomads",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Human Survivor Deserter",
             "number": 73,
             "color_identity": "WU",
@@ -1513,7 +1513,7 @@
         {
             "card_name": "Zalkrein Poisoner",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Zalkrein",
             "number": 30,
             "color_identity": "B",
@@ -1534,7 +1534,7 @@
         {
             "card_name": "Zalkrys' Conqueror",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Creature \u2014 Zalkrein",
             "number": 31,
             "color_identity": "B",
@@ -1555,7 +1555,7 @@
         {
             "card_name": "Yuvoth's Apparition",
             "color": "UBR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment Creature \u2014 Saga Avatar Illusion",
             "number": 91,
             "color_identity": "UBR",
@@ -1576,7 +1576,7 @@
         {
             "card_name": "Coming Clean",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 3,
             "color_identity": "W",
@@ -1597,7 +1597,7 @@
         {
             "card_name": "Quiet Pressure",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment",
             "number": 25,
             "color_identity": "B",
@@ -1618,7 +1618,7 @@
         {
             "card_name": "Trapped By Your innovation",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Enchantment",
             "number": 11,
             "color_identity": "W",
@@ -1639,7 +1639,7 @@
         {
             "card_name": "Will of Peace",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
             "number": 13,
             "color_identity": "W",
@@ -1660,7 +1660,7 @@
         {
             "card_name": "Will of Silence",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
             "number": 29,
             "color_identity": "B",
@@ -1681,7 +1681,7 @@
         {
             "card_name": "Will of violence",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Enchantment \u2014 Aura",
             "number": 40,
             "color_identity": "R",
@@ -1702,7 +1702,7 @@
         {
             "card_name": "Beastling summonning",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 42,
             "color_identity": "G",
@@ -1723,7 +1723,7 @@
         {
             "card_name": "Heal Wounds",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 4,
             "color_identity": "W",
@@ -1744,7 +1744,7 @@
         {
             "card_name": "Magical Abundance",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Instant",
             "number": 67,
             "color_identity": "WU",
@@ -1765,7 +1765,7 @@
         {
             "card_name": "Trapped by the Darkness",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Instant",
             "number": 27,
             "color_identity": "B",
@@ -1786,7 +1786,7 @@
         {
             "card_name": "We Must Preserve!",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Instant",
             "number": 89,
             "color_identity": "WU",
@@ -1807,7 +1807,7 @@
         {
             "card_name": "Guided By Destiny",
             "color": "WU",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Kindred Enchantment \u2014 Aura Avatar",
             "number": 61,
             "color_identity": "WU",
@@ -1828,7 +1828,7 @@
         {
             "card_name": "Radiant Soul",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Kindred Enchantment \u2014 Aura Avatar",
             "number": 1,
             "color_identity": "C",
@@ -1849,7 +1849,7 @@
         {
             "card_name": "Death Upon",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Kindred Instant \u2014 Avatar",
             "number": 53,
             "color_identity": "BR",
@@ -1870,7 +1870,7 @@
         {
             "card_name": "Existence Shattering",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Kindred Sorcery \u2014 Avatar",
             "number": 34,
             "color_identity": "R",
@@ -1891,7 +1891,7 @@
         {
             "card_name": "Eldritch Encounter",
             "color": "B",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Kindred Sorcery \u2014 Zalkrein",
             "number": 24,
             "color_identity": "B",
@@ -1912,7 +1912,7 @@
         {
             "card_name": "Prize Protection",
             "color": "W",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Artifact",
             "number": 9,
             "color_identity": "W",
@@ -1933,7 +1933,7 @@
         {
             "card_name": "Lysa, Yps Biggest Fan",
             "color": "UR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Advisor",
             "number": 66,
             "color_identity": "UR",
@@ -1954,7 +1954,7 @@
         {
             "card_name": "George Yps, Master Crafter",
             "color": "WUR",
-            "rarity": "cube",
+            "rarity": "mythic",
             "type": "Legendary Creature \u2014 Human Artificer",
             "number": 59,
             "color_identity": "WUR",
@@ -1975,7 +1975,7 @@
         {
             "card_name": "Mary, Army Admiral",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Creature \u2014 Human Soldier",
             "number": 68,
             "color_identity": "WR",
@@ -1996,7 +1996,7 @@
         {
             "card_name": "Zalkrein Fear",
             "color": "BR",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Enchantment",
             "number": 92,
             "color_identity": "BR",
@@ -2017,7 +2017,7 @@
         {
             "card_name": "Take Possession for Money",
             "color": "UB",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Instant",
             "number": 85,
             "color_identity": "UB",
@@ -2038,7 +2038,7 @@
         {
             "card_name": "Mortuary of the Dread",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land",
             "number": 100,
             "color_identity": "UB",
@@ -2059,7 +2059,7 @@
         {
             "card_name": "Zalkrein's Refuge",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Land",
             "number": 104,
             "color_identity": "BR",
@@ -2080,7 +2080,7 @@
         {
             "card_name": "Approaching the Negotiations",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Sorcery",
             "number": 14,
             "color_identity": "U",
@@ -2101,7 +2101,7 @@
         {
             "card_name": "Armed and Loaded",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 32,
             "color_identity": "R",
@@ -2122,7 +2122,7 @@
         {
             "card_name": "Central Overcharge",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 33,
             "color_identity": "R",
@@ -2143,7 +2143,7 @@
         {
             "card_name": "Key to Success",
             "color": "WUR",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 63,
             "color_identity": "WUR",
@@ -2164,7 +2164,7 @@
         {
             "card_name": "Market Trading",
             "color": "R",
-            "rarity": "cube",
+            "rarity": "rare",
             "type": "Sorcery",
             "number": 37,
             "color_identity": "R",
@@ -2185,7 +2185,7 @@
         {
             "card_name": "Scatter and Deploy",
             "color": "WR",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 79,
             "color_identity": "WR",
@@ -2206,7 +2206,7 @@
         {
             "card_name": "Slow and Steady",
             "color": "U",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Sorcery",
             "number": 19,
             "color_identity": "U",
@@ -2227,7 +2227,7 @@
         {
             "card_name": "Spy Kit",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2014 Equipment",
             "number": 5,
             "color_identity": "C",
@@ -2248,7 +2248,7 @@
         {
             "card_name": "Encampment",
             "color": "",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Token Artifact \u2014 Fortification",
             "number": 4,
             "color_identity": "C",
@@ -2269,7 +2269,7 @@
         {
             "card_name": "Javed, Diplomat",
             "color": "WUBRG",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Legendary Creature",
             "number": 62,
             "color_identity": "WUBRG",
@@ -2290,7 +2290,7 @@
         {
             "card_name": "Traveling Season",
             "color": "G",
-            "rarity": "cube",
+            "rarity": "common",
             "type": "Enchantment",
             "number": 46,
             "color_identity": "G",
@@ -2311,7 +2311,7 @@
         {
             "card_name": "World Remodeler",
             "color": "",
-            "rarity": "cube",
+            "rarity": "uncommon",
             "type": "Artifact",
             "number": 97,
             "color_identity": "C",
