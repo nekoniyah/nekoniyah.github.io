@@ -1,7 +1,7 @@
 ﻿[CustomCards]
 	[
 		{
-			"name": "Vulpes Traveller",
+			"name": "Vulpes Traveler",
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fox Faunid",
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "95",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/4.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "89",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/6.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "102",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "97",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/16.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "100",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "104",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/19.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "101",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/21.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Zalkrein Wizard",
-			"collector_number": "94",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zalkrein Horror",
-			"collector_number": "93",
+			"collector_number": "94",
 			"back": {
 				"name": "",
 				"type": "",
@@ -481,7 +481,7 @@
 			"name": "Snow Creep",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
-			"type": "Creature",
+			"type": "Creature — Zalkrein",
 			"collector_number": "26",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/47.png"
@@ -492,7 +492,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Human Archer",
-			"collector_number": "92",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/48.png"
 			}
@@ -552,7 +552,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "98",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/54.png"
 			}
@@ -732,7 +732,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Enchantment Creature — Saga Avatar Illusion",
-			"collector_number": "90",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/72.png"
 			}
@@ -842,7 +842,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Instant",
-			"collector_number": "88",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/83.png"
 			}
@@ -942,7 +942,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "91",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/93.png"
 			}
@@ -962,7 +962,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "99",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/95.png"
 			}
@@ -972,7 +972,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "103",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/96.png"
 			}
@@ -1069,9 +1069,9 @@
 		},
 		{
 			"name": "Javed, Diplomat",
-			"rarity": "uncommon",
+			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
-			"type": "Legendary Creature",
+			"type": "Legendary Creature — Human Nomad",
 			"collector_number": "62",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/106.png"
@@ -1092,9 +1092,19 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "96",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/108.png"
+			}
+		},
+		{
+			"name": "Vulpah, Kitsune Descendent",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}{B}",
+			"type": "Legendary Creature — Fox Faunid",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/109.png"
 			}
 		}
 	]
@@ -1120,6 +1130,8 @@
 	1 George Yps, Master Crafter
 	2 Key to Success
 	2 Market Trading
+	2 Javed, Diplomat
+	2 Vulpah, Kitsune Descendent
 [uncommon(3)]
 	4 Skies of Annihilation
 	4 Veluryia, Gracious Wilderness
@@ -1159,10 +1171,9 @@
 	4 Mortuary of the Dread
 	4 Zalkrein's Refuge
 	4 Approaching the Negotiations
-	4 Javed, Diplomat
 	4 World Remodeler
 [common(6)]
-	8 Vulpes Traveller
+	8 Vulpes Traveler
 	8 Lightbound Songwriter
 	8 Fairy Guide
 	8 Vital Magic
@@ -1207,7 +1218,7 @@
 	8 Slow and Steady
 	8 Traveling Season
 [common | masterpiece(1)]
-	8 Vulpes Traveller
+	8 Vulpes Traveler
 	8 Lightbound Songwriter
 	8 Fairy Guide
 	8 Vital Magic
@@ -1252,7 +1263,7 @@
 	8 Slow and Steady
 	8 Traveling Season
 [foil(1)]
-	12 Vulpes Traveller
+	12 Vulpes Traveler
 	12 Lightbound Songwriter
 	12 Fairy Guide
 	2 Transcended Chimera
@@ -1353,11 +1364,12 @@
 	2 Market Trading
 	12 Scatter and Deploy
 	12 Slow and Steady
-	6 Javed, Diplomat
+	2 Javed, Diplomat
 	12 Traveling Season
 	6 World Remodeler
+	2 Vulpah, Kitsune Descendent
 [wildcard(1)]
-	6 Vulpes Traveller
+	6 Vulpes Traveler
 	6 Lightbound Songwriter
 	6 Fairy Guide
 	7 Transcended Chimera
@@ -1458,6 +1470,7 @@
 	7 Market Trading
 	6 Scatter and Deploy
 	6 Slow and Steady
-	15 Javed, Diplomat
+	7 Javed, Diplomat
 	6 Traveling Season
 	15 World Remodeler
+	7 Vulpah, Kitsune Descendent

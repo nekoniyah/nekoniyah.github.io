@@ -1,4 +1,20 @@
-﻿VERSION 3 CHANGELOG
+﻿VERSION 4 CHANGELOG
+====================
+
+Vulpes Traveler added.
+Vulpah, Kitsune Descendent added.
+
+Vulpes Traveller removed.
+
+Snow Creep
+type: Creature => Creature — Zalkrein
+
+Javed, Diplomat
+type: Legendary Creature => Legendary Creature — Human Nomad
+pt: 5/5 => 7/5
+
+
+VERSION 3 CHANGELOG
 ====================
 
 

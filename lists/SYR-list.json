@@ -232,7 +232,7 @@
         "position": "87"
     },
     {
-        "card_name": "Vulpes Traveller",
+        "card_name": "Vulpes Traveler",
         "number": 47,
         "shape": "normal",
         "set": "SYR",
@@ -429,7 +429,7 @@
     "a->gold",
     {
         "card_name": "We Must Preserve!",
-        "number": 88,
+        "number": 89,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -445,7 +445,7 @@
     },
     {
         "card_name": "Khi'kxi, Revolute Evolver",
-        "number": 93,
+        "number": 94,
         "shape": "transform double faced",
         "set": "SYR",
         "rotated": false,
@@ -469,7 +469,7 @@
     },
     {
         "card_name": "Wisteria of Evolution",
-        "number": 89,
+        "number": 90,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -550,7 +550,7 @@
     },
     {
         "card_name": "Zalkrein Fear",
-        "number": 91,
+        "number": 92,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -591,7 +591,7 @@
     },
     {
         "card_name": "Vital Magic",
-        "number": 95,
+        "number": 96,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -674,7 +674,7 @@
     },
     {
         "card_name": "Abyss Traveler",
-        "number": 92,
+        "number": 93,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -690,7 +690,7 @@
     },
     {
         "card_name": "Night Prowler",
-        "number": 94,
+        "number": 95,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -823,11 +823,16 @@
         "card_name": "er"
     },
     {
-        "card_name": "e"
+        "card_name": "Vulpah, Kitsune Descendent",
+        "number": 88,
+        "shape": "normal",
+        "set": "SYR",
+        "rotated": false,
+        "position": "109"
     },
     {
         "card_name": "Yuvoth's Apparition",
-        "number": 90,
+        "number": 91,
         "shape": "saga",
         "set": "SYR",
         "rotated": false,
@@ -992,7 +997,7 @@
     "a->colorless",
     {
         "card_name": "World Remodeler",
-        "number": 96,
+        "number": 97,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1035,7 +1040,7 @@
     },
     {
         "card_name": "Mortuary of the Dread",
-        "number": 99,
+        "number": 100,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1043,7 +1048,7 @@
     },
     {
         "card_name": "Zalkrein's Refuge",
-        "number": 103,
+        "number": 104,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1072,7 +1077,7 @@
     },
     {
         "card_name": "Bradchel, Technocracy",
-        "number": 97,
+        "number": 98,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1080,7 +1085,7 @@
     },
     {
         "card_name": "Corrupted Savanna",
-        "number": 98,
+        "number": 99,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1088,7 +1093,7 @@
     },
     {
         "card_name": "Serenra, Natural Home",
-        "number": 100,
+        "number": 101,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1096,7 +1101,7 @@
     },
     {
         "card_name": "Vaeka, Animal Civilization",
-        "number": 101,
+        "number": 102,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1104,7 +1109,7 @@
     },
     {
         "card_name": "Veluryia, Gracious Wilderness",
-        "number": 102,
+        "number": 103,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1112,7 +1117,7 @@
     },
     {
         "card_name": "Zalkrys, Voidborn Territory",
-        "number": 104,
+        "number": 105,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
