@@ -1,0 +1,4 @@
+git config --global http.postBuffer 157286400
+python3 -m pip install pillow markdown
+
+python3 scripts/build_site.py

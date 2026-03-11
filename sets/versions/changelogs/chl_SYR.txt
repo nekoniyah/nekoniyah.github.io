@@ -1,4 +1,17 @@
-﻿VERSION 4 CHANGELOG
+﻿VERSION 5 CHANGELOG
+====================
+
+Travelers Campement added.
+Decline the Grim added.
+Syrion Blue Spirit added.
+Sky Guardian added.
+Spiritual Whale added.
+Myssae Observer added.
+
+Travellers Campement removed.
+
+
+VERSION 4 CHANGELOG
 ====================
 
 Vulpes Traveler added.
