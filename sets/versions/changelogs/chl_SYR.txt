@@ -1,4 +1,148 @@
-﻿VERSION 8 CHANGELOG
+﻿VERSION 9 CHANGELOG
+====================
+
+Rampant Growth added.
+Sanctum Weaver added.
+Serenra Elf added.
+Emerald Pendant added.
+Steel Act added.
+Flame Daydreamer added.
+Night Assassin added.
+Cindertorn Dragon added.
+
+
+Lightbound Songwriter
+
+Wisteria of Evolution
+
+Fallen Wings
+
+Skies of Annihilation
+
+Serenra, Natural Home
+
+Snow Huntress
+
+Deathbound Grimoire
+
+Myssae Flamebringer
+
+Grievous Stray
+
+Sophisticated Denial
+
+4th Wall Threat
+
+Oblivious Kitty
+
+Licia of the Insurging Seas
+
+Purification Aura
+
+Essence Keeper
+
+Lei Shai, Kitsune Temple Guard
+
+Vizzet Quick Fighter
+
+Entity Mirrorer
+
+Night Prowler
+
+Snow Creep
+
+Mayhem Angel
+
+Corrupted Savanna
+
+Hammer of Shatters
+
+Cure
+
+Ruins Protector
+
+Ammo Reserve
+
+Travelers Campement
+
+Admiral Squadron
+
+Plasma Canoneer
+
+Permanent Nomads
+
+Zalkrein Poisoner
+
+Zalkrys Conqueror
+
+Yuvoth's Apparition
+
+Coming Clean
+
+Quiet Pressure
+
+Trapped By Your innovation
+
+Beastling Summonning
+
+Heal Wounds
+
+Magical Abundance
+
+Trapped by the Darkness
+
+We Must Preserve!
+
+Guided By Destiny
+
+Radiant Soul
+
+Death Upon
+
+Existence Shattering
+
+Eldritch Encounter
+
+Prize Protection
+
+Lysa, Yps Biggest Fan
+
+George Yps, Master Crafter
+
+Mary, Army Admiral
+
+Zalkrein Fear
+
+Take Possession for Money
+
+Mortuary of the Dread
+
+Zalkrein Cave
+
+Approaching the Negotiations
+
+Armed and Loaded
+
+Central Overcharge
+
+Market Trading
+
+Scatter and Deploy
+
+Slow and Steady
+
+Spy Kit
+
+Encampment
+
+Javed, Diplomat
+
+World Remodeler
+
+Syrion Blue Spirit
+
+
+VERSION 8 CHANGELOG
 ====================
 
 No changes.

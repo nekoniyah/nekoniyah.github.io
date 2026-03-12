@@ -5,7 +5,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Fox Faunid",
-			"collector_number": "52",
+			"collector_number": "60",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/0.png"
 			}
@@ -35,7 +35,7 @@
 			"rarity": "rare",
 			"mana_cost": "{4}{U}{U}{R}{R}",
 			"type": "Enchantment Creature — Zalkrein Bird",
-			"collector_number": "90",
+			"collector_number": "98",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/3.png"
 			}
@@ -45,7 +45,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{G/W}",
 			"type": "Sorcery",
-			"collector_number": "101",
+			"collector_number": "109",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/4.png"
 			}
@@ -55,7 +55,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{G}{W}",
 			"type": "Instant",
-			"collector_number": "61",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/5.png"
 			}
@@ -65,7 +65,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{W}{U}{U}",
 			"type": "Enchantment",
-			"collector_number": "95",
+			"collector_number": "103",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/6.png"
 			}
@@ -75,7 +75,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Creature — Zalkrein",
-			"collector_number": "32",
+			"collector_number": "34",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/7.png"
 			}
@@ -85,7 +85,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}",
 			"type": "Creature — Human",
-			"collector_number": "42",
+			"collector_number": "45",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/8.png"
 			}
@@ -105,7 +105,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}{G}",
 			"type": "Creature — Angel",
-			"collector_number": "62",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/10.png"
 			}
@@ -115,7 +115,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "45",
+			"collector_number": "49",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/11.png"
 			}
@@ -125,7 +125,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zalkrein",
-			"collector_number": "27",
+			"collector_number": "28",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/12.png"
 			}
@@ -145,7 +145,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{B}{B}{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "84",
+			"collector_number": "92",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/14.png"
 			}
@@ -155,7 +155,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "108",
+			"collector_number": "116",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/15.png"
 			}
@@ -165,7 +165,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "103",
+			"collector_number": "111",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/16.png"
 			}
@@ -175,7 +175,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Enchantment Creature — Cat Faunid Druid",
-			"collector_number": "49",
+			"collector_number": "54",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/17.png"
 			}
@@ -185,7 +185,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "106",
+			"collector_number": "114",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/18.png"
 			}
@@ -195,7 +195,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "110",
+			"collector_number": "118",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/19.png"
 			}
@@ -205,7 +205,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{W}",
 			"type": "Creature — Cat Faunid Archer",
-			"collector_number": "86",
+			"collector_number": "94",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/20.png"
 			}
@@ -215,7 +215,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land — Nation",
-			"collector_number": "107",
+			"collector_number": "115",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/21.png"
 			}
@@ -225,7 +225,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{B}",
 			"type": "Instant",
-			"collector_number": "57",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/22.png"
 			}
@@ -235,7 +235,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{U}{B}",
 			"type": "Enchantment",
-			"collector_number": "59",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/23.png"
 			}
@@ -245,7 +245,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Fox Faunid",
-			"collector_number": "85",
+			"collector_number": "93",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/24.png"
 			}
@@ -265,7 +265,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Kindred Enchantment — Empyrean",
-			"collector_number": "76",
+			"collector_number": "84",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/26.png"
 			}
@@ -275,7 +275,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "77",
+			"collector_number": "85",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/27.png"
 			}
@@ -285,7 +285,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{R}{W}{B}",
 			"type": "Legendary Creature — Cat Faunid Shaman",
-			"collector_number": "80",
+			"collector_number": "88",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/28.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}",
 			"type": "Enchantment Creature — Cat Horror",
-			"collector_number": "64",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/29.png"
 			}
@@ -325,7 +325,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}{G}",
 			"type": "Enchantment",
-			"collector_number": "53",
+			"collector_number": "61",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/32.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Elf Shaman",
-			"collector_number": "69",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/36.png"
 			}
@@ -385,7 +385,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}",
 			"type": "Creature — Wanderer",
-			"collector_number": "48",
+			"collector_number": "53",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/38.png"
 			}
@@ -395,7 +395,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Creature — Fox Faunid",
-			"collector_number": "43",
+			"collector_number": "46",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/39.png"
 			}
@@ -415,7 +415,7 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Fox Faunid",
-			"collector_number": "68",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/41.png"
 			}
@@ -425,7 +425,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Bird Faunid Monk",
-			"collector_number": "92",
+			"collector_number": "100",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/42.png"
 			}
@@ -435,7 +435,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "91",
+			"collector_number": "99",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/43.png"
 			}
@@ -445,7 +445,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{G}",
 			"type": "Enchantment",
-			"collector_number": "60",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/44.png"
 			}
@@ -455,7 +455,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B/G}",
 			"type": "Creature — Zalkrein Wizard",
-			"collector_number": "100",
+			"collector_number": "108",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/45.png"
 			}
@@ -465,7 +465,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zalkrein Horror",
-			"collector_number": "99",
+			"collector_number": "107",
 			"back": {
 				"name": "",
 				"type": "",
@@ -482,7 +482,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zalkrein",
-			"collector_number": "30",
+			"collector_number": "32",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/47.png"
 			}
@@ -492,7 +492,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{W/B}{W/B}",
 			"type": "Creature — Human Archer",
-			"collector_number": "98",
+			"collector_number": "106",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/48.png"
 			}
@@ -502,7 +502,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "74",
+			"collector_number": "82",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/49.png"
 			}
@@ -512,7 +512,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{6}{G}{U}",
 			"type": "Enchantment",
-			"collector_number": "87",
+			"collector_number": "95",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/50.png"
 			}
@@ -522,7 +522,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{G}{W}{U}",
 			"type": "Enchantment",
-			"collector_number": "81",
+			"collector_number": "89",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/51.png"
 			}
@@ -532,7 +532,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{W}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "75",
+			"collector_number": "83",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/52.png"
 			}
@@ -542,7 +542,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{G}{W}{U}",
 			"type": "Legendary Creature — Empyrean",
-			"collector_number": "82",
+			"collector_number": "90",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/53.png"
 			}
@@ -552,7 +552,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Land",
-			"collector_number": "104",
+			"collector_number": "112",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/54.png"
 			}
@@ -572,7 +572,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "73",
+			"collector_number": "81",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/56.png"
 			}
@@ -592,7 +592,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Artifact",
-			"collector_number": "39",
+			"collector_number": "42",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/58.png"
 			}
@@ -602,7 +602,7 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Instant",
-			"collector_number": "47",
+			"collector_number": "51",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/59.png"
 			}
@@ -622,7 +622,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}",
 			"type": "Artifact",
-			"collector_number": "55",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/61.png"
 			}
@@ -652,7 +652,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{R}",
 			"type": "Creature — Human Artificer Soldier",
-			"collector_number": "88",
+			"collector_number": "96",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/64.png"
 			}
@@ -662,7 +662,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}",
 			"type": "Creature — Human Barbarian",
-			"collector_number": "40",
+			"collector_number": "43",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/65.png"
 			}
@@ -672,7 +672,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Creature — Human Citizen Soldier",
-			"collector_number": "56",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/66.png"
 			}
@@ -682,7 +682,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "54",
+			"collector_number": "62",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/67.png"
 			}
@@ -692,7 +692,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Creature — Human Soldier",
-			"collector_number": "79",
+			"collector_number": "87",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/68.png"
 			}
@@ -702,7 +702,7 @@
 			"rarity": "common",
 			"mana_cost": "{4}{W}{U}",
 			"type": "Creature — Human Survivor Deserter",
-			"collector_number": "78",
+			"collector_number": "86",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/69.png"
 			}
@@ -712,7 +712,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}",
 			"type": "Creature — Zalkrein",
-			"collector_number": "34",
+			"collector_number": "36",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/70.png"
 			}
@@ -722,7 +722,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zalkrein",
-			"collector_number": "35",
+			"collector_number": "37",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/71.png"
 			}
@@ -732,7 +732,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{U}{B}{R}",
 			"type": "Enchantment Creature — Saga Avatar Illusion",
-			"collector_number": "96",
+			"collector_number": "104",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/72.png"
 			}
@@ -752,7 +752,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{B}",
 			"type": "Enchantment",
-			"collector_number": "29",
+			"collector_number": "31",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/74.png"
 			}
@@ -782,7 +782,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{1}{B}{B}",
 			"type": "Enchantment — Aura",
-			"collector_number": "33",
+			"collector_number": "35",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/77.png"
 			}
@@ -792,7 +792,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Aura",
-			"collector_number": "44",
+			"collector_number": "48",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/78.png"
 			}
@@ -802,7 +802,7 @@
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Instant",
-			"collector_number": "46",
+			"collector_number": "50",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/79.png"
 			}
@@ -822,7 +822,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "71",
+			"collector_number": "79",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/81.png"
 			}
@@ -832,7 +832,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}",
 			"type": "Instant",
-			"collector_number": "31",
+			"collector_number": "33",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/82.png"
 			}
@@ -842,7 +842,7 @@
 			"rarity": "rare",
 			"mana_cost": "{3}{W}{U}",
 			"type": "Instant",
-			"collector_number": "94",
+			"collector_number": "102",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/83.png"
 			}
@@ -852,7 +852,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Kindred Enchantment — Aura Avatar",
-			"collector_number": "65",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/84.png"
 			}
@@ -872,7 +872,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{B}{R}",
 			"type": "Kindred Instant — Avatar",
-			"collector_number": "58",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/86.png"
 			}
@@ -882,7 +882,7 @@
 			"rarity": "common",
 			"mana_cost": "{R}{R}{R}",
 			"type": "Kindred Sorcery — Avatar",
-			"collector_number": "38",
+			"collector_number": "40",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/87.png"
 			}
@@ -892,7 +892,7 @@
 			"rarity": "common",
 			"mana_cost": "{B}",
 			"type": "Kindred Sorcery — Zalkrein",
-			"collector_number": "28",
+			"collector_number": "29",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/88.png"
 			}
@@ -912,7 +912,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "70",
+			"collector_number": "78",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/90.png"
 			}
@@ -922,7 +922,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "63",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/91.png"
 			}
@@ -932,7 +932,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "72",
+			"collector_number": "80",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/92.png"
 			}
@@ -942,7 +942,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{B}{R}",
 			"type": "Legendary Enchantment",
-			"collector_number": "97",
+			"collector_number": "105",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/93.png"
 			}
@@ -952,7 +952,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{U}{B}",
 			"type": "Legendary Instant",
-			"collector_number": "89",
+			"collector_number": "97",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/94.png"
 			}
@@ -962,7 +962,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "105",
+			"collector_number": "113",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/95.png"
 			}
@@ -972,7 +972,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
-			"collector_number": "109",
+			"collector_number": "117",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/96.png"
 			}
@@ -992,7 +992,7 @@
 			"rarity": "common",
 			"mana_cost": "{1}{R}",
 			"type": "Sorcery",
-			"collector_number": "36",
+			"collector_number": "38",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/98.png"
 			}
@@ -1002,7 +1002,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}",
 			"type": "Sorcery",
-			"collector_number": "37",
+			"collector_number": "39",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/99.png"
 			}
@@ -1012,7 +1012,7 @@
 			"rarity": "rare",
 			"mana_cost": "{9}{U}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "67",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/100.png"
 			}
@@ -1022,7 +1022,7 @@
 			"rarity": "rare",
 			"mana_cost": "{R}{R}",
 			"type": "Sorcery",
-			"collector_number": "41",
+			"collector_number": "44",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/101.png"
 			}
@@ -1032,7 +1032,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "83",
+			"collector_number": "91",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/102.png"
 			}
@@ -1072,7 +1072,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human Nomad",
-			"collector_number": "66",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/106.png"
 			}
@@ -1082,7 +1082,7 @@
 			"rarity": "common",
 			"mana_cost": "{2}{G}",
 			"type": "Enchantment",
-			"collector_number": "51",
+			"collector_number": "59",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/107.png"
 			}
@@ -1092,7 +1092,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{5}",
 			"type": "Artifact",
-			"collector_number": "102",
+			"collector_number": "110",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/108.png"
 			}
@@ -1102,7 +1102,7 @@
 			"rarity": "rare",
 			"mana_cost": "{1}{W}{U}{B}",
 			"type": "Legendary Creature — Fox Faunid",
-			"collector_number": "93",
+			"collector_number": "101",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/109.png"
 			}
@@ -1152,9 +1152,89 @@
 			"rarity": "common",
 			"mana_cost": "{G}",
 			"type": "Creature — Dryad Elemental",
-			"collector_number": "50",
+			"collector_number": "55",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/114.png"
+			}
+		},
+		{
+			"name": "Rampant Growth",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Sorcery",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/115.png"
+			}
+		},
+		{
+			"name": "Sanctum Weaver",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}",
+			"type": "Enchantment Creature — Dryad",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/116.png"
+			}
+		},
+		{
+			"name": "Serenra Elf",
+			"rarity": "common",
+			"mana_cost": "{G}",
+			"type": "Creature — Elf",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/117.png"
+			}
+		},
+		{
+			"name": "Emerald Pendant",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/118.png"
+			}
+		},
+		{
+			"name": "Steel Act",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Sorcery",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/119.png"
+			}
+		},
+		{
+			"name": "Flame Daydreamer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Creature — Fox Faunid Sorcerer",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/120.png"
+			}
+		},
+		{
+			"name": "Night Assassin",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Creature — Cat Faunid Assassin",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/121.png"
+			}
+		},
+		{
+			"name": "Cindertorn Dragon",
+			"rarity": "rare",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Creature — Dragon Zalkrein",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://nekoniyah.github.io/sets/SYR-files/img/122.png"
 			}
 		}
 	]
@@ -1183,6 +1263,8 @@
 	2 Javed, Diplomat
 	2 Vulpah, Kitsune Descendent
 	2 Syrion Blue Spirit
+	2 Sanctum Weaver
+	2 Cindertorn Dragon
 [uncommon(3)]
 	4 Skies of Annihilation
 	4 Veluryia, Gracious Wilderness
@@ -1223,6 +1305,10 @@
 	4 Zalkrein Cave
 	4 Approaching the Negotiations
 	4 World Remodeler
+	4 Emerald Pendant
+	4 Steel Act
+	4 Flame Daydreamer
+	4 Night Assassin
 [common(6)]
 	8 Vulpes Traveler
 	8 Lightbound Songwriter
@@ -1272,6 +1358,8 @@
 	8 Sky Guardian
 	8 Spiritual Whale
 	8 Myssae Observer
+	8 Rampant Growth
+	8 Serenra Elf
 [common | masterpiece(1)]
 	8 Vulpes Traveler
 	8 Lightbound Songwriter
@@ -1321,6 +1409,8 @@
 	8 Sky Guardian
 	8 Spiritual Whale
 	8 Myssae Observer
+	8 Rampant Growth
+	8 Serenra Elf
 [foil(1)]
 	12 Vulpes Traveler
 	12 Lightbound Songwriter
@@ -1432,6 +1522,14 @@
 	12 Sky Guardian
 	12 Spiritual Whale
 	12 Myssae Observer
+	12 Rampant Growth
+	2 Sanctum Weaver
+	12 Serenra Elf
+	6 Emerald Pendant
+	6 Steel Act
+	6 Flame Daydreamer
+	6 Night Assassin
+	2 Cindertorn Dragon
 [wildcard(1)]
 	6 Vulpes Traveler
 	6 Lightbound Songwriter
@@ -1543,3 +1641,11 @@
 	6 Sky Guardian
 	6 Spiritual Whale
 	6 Myssae Observer
+	6 Rampant Growth
+	7 Sanctum Weaver
+	6 Serenra Elf
+	15 Emerald Pendant
+	15 Steel Act
+	15 Flame Daydreamer
+	15 Night Assassin
+	7 Cindertorn Dragon
