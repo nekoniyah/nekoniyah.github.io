@@ -939,7 +939,7 @@ Non-artifact creatures you control are enchantments in addition to their other t
 		</card>
 		<card>
 			<name>Rejuvinating Heights</name>
-			<text>When this enchantment enters, search your library for an enchantment card with mana value 3 or less, put that card in your hand, then shuffle.
+			<text>When this enchantment enters, search your library for an enchantment card with mana value 3 or less, reveal that card, put it in your hand, then shuffle.
 At the beginning of your upkeep, you gain life equal to the number of enchantments you control.</text>
 			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/51.png" num="81">SYR</set>
 			<prop>
@@ -1154,7 +1154,7 @@ Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)
 		</card>
 		<card>
 			<name>History Escapists</name>
-			<text>When this creature enters, create a 1/1 white Human token and a Munition token.</text>
+			<text>When this creature enters, create a 1/1 white Human token and a Munitions token.</text>
 			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/63.png" num="5">SYR</set>
 			<prop>
 				<layout>normal</layout>
