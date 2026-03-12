@@ -2589,7 +2589,7 @@
             "number": 27,
             "color_identity": "B",
             "cost": "{3}{B}{B}",
-            "rules_text": "Flying\nCreatures you don't control get -1/-1.\nWhenever a creature you don't control dies, create a treasure token.",
+            "rules_text": "Flying\nWhenever a creature dies, create a treasure token.",
             "flavor_text": "[i][/i]",
             "pt": "4/5",
             "special_text": "",
@@ -2603,5 +2603,5 @@
             "notes": ""
         }
     ],
-    "version": 9
+    "version": 10
 }

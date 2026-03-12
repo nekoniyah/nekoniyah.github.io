@@ -1,4 +1,16 @@
-﻿VERSION 9 CHANGELOG
+﻿VERSION 10 CHANGELOG
+====================
+
+
+
+Cindertorn Dragon
+rules_text: Flying
+Creatures you don't control get -1/-1.
+Whenever a creature you don't control dies, create a treasure token. => Flying
+Whenever a creature dies, create a treasure token.
+
+
+VERSION 9 CHANGELOG
 ====================
 
 Rampant Growth added.

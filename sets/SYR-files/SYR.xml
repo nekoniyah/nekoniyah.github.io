@@ -2174,8 +2174,7 @@ When Night Assassin enters, creatures of the chosen color get -0/-2 until end of
 		<card>
 			<name>Cindertorn Dragon</name>
 			<text>Flying
-Creatures you don&apos;t control get -1/-1.
-Whenever a creature you don&apos;t control dies, create a treasure token.</text>
+Whenever a creature dies, create a treasure token.</text>
 			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/122.png" num="27">SYR</set>
 			<prop>
 				<layout>normal</layout>
