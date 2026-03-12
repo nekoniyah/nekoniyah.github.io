@@ -1,4 +1,58 @@
-﻿VERSION 5 CHANGELOG
+﻿VERSION 6 CHANGELOG
+====================
+
+Yuvoth Influence added.
+Myssae Flamebringer added.
+Vizzet Quick Fighter added.
+Khikxi, Revolute Evolver added.
+Admiral Squadron added.
+Zalkrys Conqueror added.
+Will of Violence added.
+Beastling Summonning added.
+Zalkrein Cave added.
+
+Yuvoth's Influence removed.
+Forest's Flamebringer removed.
+Vizzet's Quick Fighter removed.
+Khi'kxi, Revolute Evolver removed.
+Admiral's Squadron removed.
+Zalkrys' Conqueror removed.
+Will of violence removed.
+Beastling summonning removed.
+Zalkrein's Refuge removed.
+
+Spiritualizing Sky
+cost: {1}{G}{U} => {6}{G}{U}
+rules_text: Non-artifact creatures you control are enchantments in addition to their other types. This is also true for non-artifact creatures you own that aren't on the battlefield. => Convoke [i](Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature's color.)[/i]
+Non-artifact creatures you control are enchantments in addition to their other types. This is also true for non-artifact creatures you own that aren't on the battlefield.
+
+Intrepid Fighter
+rules_text: Haste
+Whenever this creature deals damage to a creature, create a Munition token.
+At the beginning of your end step, return Intrepid Fighter to your hand. => Haste
+Whenever this creature deals damage to a creature, create a Munitions token.
+At the beginning of your end step, return Intrepid Fighter to your hand.
+
+Armed Outlookers
+rules_text: Whenever one or more tokens you don't control enter, create a Munition token. This ability triggers only once each turn.
+Whenever a token you control leaves the battlefield, scry 1. => Whenever one or more tokens you don't control enter, create a Munitions token. This ability triggers only once each turn.
+Whenever a token you control leaves the battlefield, scry 1.
+
+Scatter and Deploy
+rules_text: [i]Raid[/i] — Create a food token for each creature you control. Then if you attacked with three or more creature this turn, create a tapped treasure token for each creature that attacked this turn. => Create a food token for each creature you control. Then if you attacked with three or more creature this turn, create a tapped treasure token for each creature that attacked this turn.
+
+Encampment
+rules_text: The first time fortified land becomes tapped for mana, you gain 1 life for each color produced this way.
+Fortify {3} [i]({3}: Attach to target land you control. Fortify only as a sorcery.)[/i] => Whenever fortified land becomes tapped for mana, you gain 1 life for each color produced this way. Do this only once each turn.
+Fortify {3} [i]({3}: Attach to target land you control. Fortify only as a sorcery.)[/i]
+
+Traveling Season
+rules_text: Whenever a Nation you control enters, draw a card.
+{G}{G}, tap target Nation you control: Create two Food tokens. => Whenever a Nation you control enters, draw a card.
+{G}{G}, tap target Nation you control: Create two tapped Food tokens.
+
+
+VERSION 5 CHANGELOG
 ====================
 
 Travelers Campement added.

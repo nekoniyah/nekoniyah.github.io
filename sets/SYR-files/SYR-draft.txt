@@ -111,7 +111,7 @@
 			}
 		},
 		{
-			"name": "Yuvoth's Influence",
+			"name": "Yuvoth Influence",
 			"rarity": "common",
 			"mana_cost": "{1}{R}{R}",
 			"type": "Sorcery",
@@ -265,17 +265,17 @@
 			"rarity": "mythic",
 			"mana_cost": "{2/W}{2/U}{2/B}{2/R}{2/G}",
 			"type": "Kindred Enchantment — Empyrean",
-			"collector_number": "77",
+			"collector_number": "76",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/26.png"
 			}
 		},
 		{
-			"name": "Forest's Flamebringer",
+			"name": "Myssae Flamebringer",
 			"rarity": "uncommon",
 			"mana_cost": "{2}{R}{G}",
 			"type": "Creature — Dragon",
-			"collector_number": "63",
+			"collector_number": "77",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/27.png"
 			}
@@ -295,7 +295,7 @@
 			"rarity": "rare",
 			"mana_cost": "{B}{B}{R}",
 			"type": "Enchantment Creature — Cat Horror",
-			"collector_number": "65",
+			"collector_number": "64",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/29.png"
 			}
@@ -365,7 +365,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{G}{U}",
 			"type": "Legendary Creature — Elf Shaman",
-			"collector_number": "70",
+			"collector_number": "69",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/36.png"
 			}
@@ -415,13 +415,13 @@
 			"rarity": "rare",
 			"mana_cost": "{G}{W}",
 			"type": "Legendary Creature — Fox Faunid",
-			"collector_number": "69",
+			"collector_number": "68",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/41.png"
 			}
 		},
 		{
-			"name": "Vizzet's Quick Fighter",
+			"name": "Vizzet Quick Fighter",
 			"rarity": "uncommon",
 			"mana_cost": "{U}{R}",
 			"type": "Creature — Bird Faunid Monk",
@@ -461,7 +461,7 @@
 			}
 		},
 		{
-			"name": "Khi'kxi, Revolute Evolver",
+			"name": "Khikxi, Revolute Evolver",
 			"rarity": "mythic",
 			"mana_cost": "{1}{B/R}{B/R}",
 			"type": "Legendary Creature — Zalkrein Horror",
@@ -502,7 +502,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{R}{W}{B}",
 			"type": "Creature — Angel Warrior",
-			"collector_number": "75",
+			"collector_number": "74",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/49.png"
 			}
@@ -510,7 +510,7 @@
 		{
 			"name": "Spiritualizing Sky",
 			"rarity": "uncommon",
-			"mana_cost": "{1}{G}{U}",
+			"mana_cost": "{6}{G}{U}",
 			"type": "Enchantment",
 			"collector_number": "87",
 			"image_uris": {
@@ -532,7 +532,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{3}{G}{W}{W}",
 			"type": "Legendary Creature — Human Shaman",
-			"collector_number": "76",
+			"collector_number": "75",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/52.png"
 			}
@@ -572,7 +572,7 @@
 			"rarity": "rare",
 			"mana_cost": "{2}{U}{B}",
 			"type": "Legendary Creature — Human Warrior",
-			"collector_number": "74",
+			"collector_number": "73",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/56.png"
 			}
@@ -678,7 +678,7 @@
 			}
 		},
 		{
-			"name": "Admiral's Squadron",
+			"name": "Admiral Squadron",
 			"rarity": "uncommon",
 			"mana_cost": "{1}{R}{W}",
 			"type": "Creature — Human Soldier",
@@ -718,7 +718,7 @@
 			}
 		},
 		{
-			"name": "Zalkrys' Conqueror",
+			"name": "Zalkrys Conqueror",
 			"rarity": "common",
 			"mana_cost": "{2}{B}{B}",
 			"type": "Creature — Zalkrein",
@@ -788,7 +788,7 @@
 			}
 		},
 		{
-			"name": "Will of violence",
+			"name": "Will of Violence",
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{R}",
 			"type": "Enchantment — Aura",
@@ -798,7 +798,7 @@
 			}
 		},
 		{
-			"name": "Beastling summonning",
+			"name": "Beastling Summonning",
 			"rarity": "rare",
 			"mana_cost": "{5}{G}{G}",
 			"type": "Instant",
@@ -822,7 +822,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{W}{U}",
 			"type": "Instant",
-			"collector_number": "72",
+			"collector_number": "71",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/81.png"
 			}
@@ -852,7 +852,7 @@
 			"rarity": "common",
 			"mana_cost": "{W}{U}",
 			"type": "Kindred Enchantment — Aura Avatar",
-			"collector_number": "66",
+			"collector_number": "65",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/84.png"
 			}
@@ -912,7 +912,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{2}{U}{R}",
 			"type": "Legendary Creature — Human Advisor",
-			"collector_number": "71",
+			"collector_number": "70",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/90.png"
 			}
@@ -922,7 +922,7 @@
 			"rarity": "mythic",
 			"mana_cost": "{2}{U}{R}{W}",
 			"type": "Legendary Creature — Human Artificer",
-			"collector_number": "64",
+			"collector_number": "63",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/91.png"
 			}
@@ -932,7 +932,7 @@
 			"rarity": "uncommon",
 			"mana_cost": "{3}{R}{W}",
 			"type": "Legendary Creature — Human Soldier",
-			"collector_number": "73",
+			"collector_number": "72",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/92.png"
 			}
@@ -968,7 +968,7 @@
 			}
 		},
 		{
-			"name": "Zalkrein's Refuge",
+			"name": "Zalkrein Cave",
 			"rarity": "uncommon",
 			"mana_cost": "",
 			"type": "Legendary Land",
@@ -1012,7 +1012,7 @@
 			"rarity": "rare",
 			"mana_cost": "{9}{U}{R}{W}",
 			"type": "Sorcery",
-			"collector_number": "68",
+			"collector_number": "67",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/100.png"
 			}
@@ -1072,7 +1072,7 @@
 			"rarity": "rare",
 			"mana_cost": "{W}{U}{B}{R}{G}",
 			"type": "Legendary Creature — Human Nomad",
-			"collector_number": "67",
+			"collector_number": "66",
 			"image_uris": {
 				"en": "https://nekoniyah.github.io/sets/SYR-files/img/106.png"
 			}
@@ -1169,13 +1169,13 @@
 	2 Purification Aura
 	2 Lei Shai, Kitsune Temple Guard
 	2 Entity Mirrorer
-	1 Khi'kxi, Revolute Evolver
+	1 Khikxi, Revolute Evolver
 	1 Merley, Beast Empowerer
 	1 Ryuu, Empyrean Prayer
 	2 Mayel, Midnight Battler
 	2 Intrepid Fighter
 	2 Trapped By Your innovation
-	2 Beastling summonning
+	2 Beastling Summonning
 	2 We Must Preserve!
 	1 George Yps, Master Crafter
 	2 Key to Success
@@ -1190,11 +1190,11 @@
 	4 Serenra, Natural Home
 	4 Zalkrys, Voidborn Territory
 	4 Vaeka, Animal Civilization
-	4 Forest's Flamebringer
+	4 Myssae Flamebringer
 	4 4th Wall Threat
 	4 Licia of the Insurging Seas
 	4 Essence Keeper
-	4 Vizzet's Quick Fighter
+	4 Vizzet Quick Fighter
 	4 Vizzet, Master of Duality
 	4 Snow Creep
 	4 Mayhem Angel
@@ -1205,14 +1205,14 @@
 	4 Ammo Reserve
 	4 Supply Manager
 	4 Armed Outlookers
-	4 Admiral's Squadron
+	4 Admiral Squadron
 	4 Plasma Canoneer
 	4 Yuvoth's Apparition
 	4 Coming Clean
 	4 Quiet Pressure
 	4 Will of Peace
 	4 Will of Silence
-	4 Will of violence
+	4 Will of Violence
 	4 Magical Abundance
 	4 Prize Protection
 	4 Lysa, Yps Biggest Fan
@@ -1220,7 +1220,7 @@
 	4 Zalkrein Fear
 	4 Take Possession for Money
 	4 Mortuary of the Dread
-	4 Zalkrein's Refuge
+	4 Zalkrein Cave
 	4 Approaching the Negotiations
 	4 World Remodeler
 [common(6)]
@@ -1231,7 +1231,7 @@
 	8 Void Spawn
 	8 Medieval General
 	8 Fallen Wings
-	8 Yuvoth's Influence
+	8 Yuvoth Influence
 	8 Demonic Conqueror
 	8 Fluffy Druid
 	8 Snow Huntress
@@ -1255,7 +1255,7 @@
 	8 History Escapists
 	8 Permanent Nomads
 	8 Zalkrein Poisoner
-	8 Zalkrys' Conqueror
+	8 Zalkrys Conqueror
 	8 Heal Wounds
 	8 Trapped by the Darkness
 	8 Guided By Destiny
@@ -1280,7 +1280,7 @@
 	8 Void Spawn
 	8 Medieval General
 	8 Fallen Wings
-	8 Yuvoth's Influence
+	8 Yuvoth Influence
 	8 Demonic Conqueror
 	8 Fluffy Druid
 	8 Snow Huntress
@@ -1304,7 +1304,7 @@
 	8 History Escapists
 	8 Permanent Nomads
 	8 Zalkrein Poisoner
-	8 Zalkrys' Conqueror
+	8 Zalkrys Conqueror
 	8 Heal Wounds
 	8 Trapped by the Darkness
 	8 Guided By Destiny
@@ -1332,7 +1332,7 @@
 	12 Void Spawn
 	12 Medieval General
 	12 Fallen Wings
-	12 Yuvoth's Influence
+	12 Yuvoth Influence
 	12 Demonic Conqueror
 	6 Skies of Annihilation
 	6 Veluryia, Gracious Wilderness
@@ -1346,7 +1346,7 @@
 	12 Deathbound Grimoire
 	12 Sky Claw
 	1 The Mirror
-	6 Forest's Flamebringer
+	6 Myssae Flamebringer
 	1 Razziel, Mist Puppeteer
 	2 Grievous Stray
 	12 Sophisticated Denial
@@ -1361,11 +1361,11 @@
 	12 Ninetailed Flamemaster
 	12 Pilot of the Skies
 	2 Lei Shai, Kitsune Temple Guard
-	6 Vizzet's Quick Fighter
+	6 Vizzet Quick Fighter
 	6 Vizzet, Master of Duality
 	2 Entity Mirrorer
 	12 Night Prowler
-	1 Khi'kxi, Revolute Evolver
+	1 Khikxi, Revolute Evolver
 	6 Snow Creep
 	12 Abyss Traveler
 	6 Mayhem Angel
@@ -1386,19 +1386,19 @@
 	6 Supply Manager
 	2 Intrepid Fighter
 	6 Armed Outlookers
-	6 Admiral's Squadron
+	6 Admiral Squadron
 	6 Plasma Canoneer
 	12 Permanent Nomads
 	12 Zalkrein Poisoner
-	12 Zalkrys' Conqueror
+	12 Zalkrys Conqueror
 	6 Yuvoth's Apparition
 	6 Coming Clean
 	6 Quiet Pressure
 	2 Trapped By Your innovation
 	6 Will of Peace
 	6 Will of Silence
-	6 Will of violence
-	2 Beastling summonning
+	6 Will of Violence
+	2 Beastling Summonning
 	12 Heal Wounds
 	6 Magical Abundance
 	12 Trapped by the Darkness
@@ -1415,7 +1415,7 @@
 	6 Zalkrein Fear
 	6 Take Possession for Money
 	6 Mortuary of the Dread
-	6 Zalkrein's Refuge
+	6 Zalkrein Cave
 	6 Approaching the Negotiations
 	12 Armed and Loaded
 	12 Central Overcharge
@@ -1443,7 +1443,7 @@
 	6 Void Spawn
 	6 Medieval General
 	6 Fallen Wings
-	6 Yuvoth's Influence
+	6 Yuvoth Influence
 	6 Demonic Conqueror
 	15 Skies of Annihilation
 	15 Veluryia, Gracious Wilderness
@@ -1457,7 +1457,7 @@
 	6 Deathbound Grimoire
 	6 Sky Claw
 	4 The Mirror
-	15 Forest's Flamebringer
+	15 Myssae Flamebringer
 	4 Razziel, Mist Puppeteer
 	7 Grievous Stray
 	6 Sophisticated Denial
@@ -1472,11 +1472,11 @@
 	6 Ninetailed Flamemaster
 	6 Pilot of the Skies
 	7 Lei Shai, Kitsune Temple Guard
-	15 Vizzet's Quick Fighter
+	15 Vizzet Quick Fighter
 	15 Vizzet, Master of Duality
 	7 Entity Mirrorer
 	6 Night Prowler
-	4 Khi'kxi, Revolute Evolver
+	4 Khikxi, Revolute Evolver
 	15 Snow Creep
 	6 Abyss Traveler
 	15 Mayhem Angel
@@ -1497,19 +1497,19 @@
 	15 Supply Manager
 	7 Intrepid Fighter
 	15 Armed Outlookers
-	15 Admiral's Squadron
+	15 Admiral Squadron
 	15 Plasma Canoneer
 	6 Permanent Nomads
 	6 Zalkrein Poisoner
-	6 Zalkrys' Conqueror
+	6 Zalkrys Conqueror
 	15 Yuvoth's Apparition
 	15 Coming Clean
 	15 Quiet Pressure
 	7 Trapped By Your innovation
 	15 Will of Peace
 	15 Will of Silence
-	15 Will of violence
-	7 Beastling summonning
+	15 Will of Violence
+	7 Beastling Summonning
 	6 Heal Wounds
 	15 Magical Abundance
 	6 Trapped by the Darkness
@@ -1526,7 +1526,7 @@
 	15 Zalkrein Fear
 	15 Take Possession for Money
 	15 Mortuary of the Dread
-	15 Zalkrein's Refuge
+	15 Zalkrein Cave
 	15 Approaching the Negotiations
 	6 Armed and Loaded
 	6 Central Overcharge

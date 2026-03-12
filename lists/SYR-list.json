@@ -32,7 +32,7 @@
         "position": "65"
     },
     {
-        "card_name": "Beastling summonning",
+        "card_name": "Beastling Summonning",
         "number": 46,
         "shape": "normal",
         "set": "SYR",
@@ -104,7 +104,7 @@
         "position": "47"
     },
     {
-        "card_name": "Will of violence",
+        "card_name": "Will of Violence",
         "number": 44,
         "shape": "normal",
         "set": "SYR",
@@ -371,7 +371,7 @@
         "position": "30"
     },
     {
-        "card_name": "Zalkrys' Conqueror",
+        "card_name": "Zalkrys Conqueror",
         "number": 35,
         "shape": "normal",
         "set": "SYR",
@@ -379,7 +379,7 @@
         "position": "71"
     },
     {
-        "card_name": "Yuvoth's Influence",
+        "card_name": "Yuvoth Influence",
         "number": 45,
         "shape": "leveler",
         "set": "SYR",
@@ -462,14 +462,14 @@
     },
     {
         "card_name": "Mayel, Midnight Battler",
-        "number": 74,
+        "number": 73,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
         "position": "56"
     },
     {
-        "card_name": "Khi'kxi, Revolute Evolver",
+        "card_name": "Khikxi, Revolute Evolver",
         "number": 99,
         "shape": "transform double faced",
         "set": "SYR",
@@ -477,8 +477,8 @@
         "position": "46"
     },
     {
-        "card_name": "Forest's Flamebringer",
-        "number": 63,
+        "card_name": "Myssae Flamebringer",
+        "number": 77,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -486,7 +486,7 @@
     },
     {
         "card_name": "Merley, Beast Empowerer",
-        "number": 76,
+        "number": 75,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -510,7 +510,7 @@
     },
     {
         "card_name": "Grievous Stray",
-        "number": 65,
+        "number": 64,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -556,7 +556,7 @@
     },
     {
         "card_name": "Lei Shai, Kitsune Temple Guard",
-        "number": 69,
+        "number": 68,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -564,7 +564,7 @@
     },
     {
         "card_name": "Magical Abundance",
-        "number": 72,
+        "number": 71,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -594,7 +594,7 @@
     },
     {
         "card_name": "Guided By Destiny",
-        "number": 66,
+        "number": 65,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -682,7 +682,7 @@
         "position": "44"
     },
     {
-        "card_name": "Admiral's Squadron",
+        "card_name": "Admiral Squadron",
         "number": 54,
         "shape": "normal",
         "set": "SYR",
@@ -691,7 +691,7 @@
     },
     {
         "card_name": "Licia of the Insurging Seas",
-        "number": 70,
+        "number": 69,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -707,7 +707,7 @@
     },
     {
         "card_name": "Lysa, Yps Biggest Fan",
-        "number": 71,
+        "number": 70,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -753,7 +753,7 @@
     },
     {
         "card_name": "Mary, Army Admiral",
-        "number": 73,
+        "number": 72,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -816,7 +816,7 @@
         "card_name": "e"
     },
     {
-        "card_name": "Vizzet's Quick Fighter",
+        "card_name": "Vizzet Quick Fighter",
         "number": 92,
         "shape": "normal",
         "set": "SYR",
@@ -933,7 +933,7 @@
     },
     {
         "card_name": "George Yps, Master Crafter",
-        "number": 64,
+        "number": 63,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -944,7 +944,7 @@
     },
     {
         "card_name": "Mayhem Angel",
-        "number": 75,
+        "number": 74,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -958,7 +958,7 @@
     },
     {
         "card_name": "Key to Success",
-        "number": 68,
+        "number": 67,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -984,7 +984,7 @@
     },
     {
         "card_name": "The Mirror",
-        "number": 77,
+        "number": 76,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -992,7 +992,7 @@
     },
     {
         "card_name": "Javed, Diplomat",
-        "number": 67,
+        "number": 66,
         "shape": "normal",
         "set": "SYR",
         "rotated": false,
@@ -1072,7 +1072,7 @@
         "position": "95"
     },
     {
-        "card_name": "Zalkrein's Refuge",
+        "card_name": "Zalkrein Cave",
         "number": 109,
         "shape": "normal",
         "set": "SYR",
