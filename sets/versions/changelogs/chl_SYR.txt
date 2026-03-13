@@ -1,4 +1,146 @@
-﻿VERSION 10 CHANGELOG
+﻿VERSION 11 CHANGELOG
+====================
+
+Electric Wanderer added.
+Kahab, Bradchel Manifestation added.
+Guttural Response added.
+Resting Beastie added.
+Winter Zalkrein added.
+Warbringer Illusionist added.
+Lizard Invasion added.
+Goldenleaf Hybrid added.
+Hanad, Valiant Fog added.
+Mist-ical Spirit added.
+Debt Daily Collect added.
+Duel the Evil added.
+Uzamehl, Zalkrys Army Leader added.
+Fall into Malice added.
+False Spirit added.
+Rusting Machinery added.
+
+Plasma Canoneer removed.
+We Must Preserve! removed.
+
+Demonic Conqueror
+rules_text: Deathtouch
+{B}, exile a creature card from your graveyard: Create a 3/3 black Zalkrein creature token with menace. You lose 2 life. => Deathtouch
+{B}, exile a creature card from your graveyard: Create a 3/3 black Zalkrein creature token with menace.
+
+Ruins Protector
+
+Supply Manager
+rules_text: When this creature enters or leaves the battlefield, create a Munitions token.
+{2}{R}, sacrifice an artifact: Target creature you control deals 2 damage to another target creature you don't control => When this creature enters or leaves the battlefield, create a Munitions token.
+{2}{R}, sacrifice an artifact: Target creature you control deals 2 damage to another target creature you don't control.
+
+Permanent Nomads
+
+Zalkrein Poisoner
+
+Zalkrys Conqueror
+
+Yuvoth's Apparition
+
+Coming Clean
+
+Quiet Pressure
+
+Trapped By Your innovation
+
+Will of Peace
+
+Will of Silence
+
+Will of Violence
+
+Beastling Summonning
+
+Heal Wounds
+
+Magical Abundance
+
+Trapped by the Darkness
+
+Guided By Destiny
+
+Radiant Soul
+
+Death Upon
+
+Existence Shattering
+
+Eldritch Encounter
+
+Prize Protection
+
+Lysa, Yps Biggest Fan
+
+George Yps, Master Crafter
+
+Mary, Army Admiral
+
+Zalkrein Fear
+
+Take Possession for Money
+
+Mortuary of the Dread
+
+Zalkrein Cave
+
+Approaching the Negotiations
+
+Armed and Loaded
+
+Central Overcharge
+
+Key to Success
+
+Market Trading
+
+Scatter and Deploy
+
+Slow and Steady
+
+Spy Kit
+
+Encampment
+
+Javed, Diplomat
+
+Traveling Season
+
+World Remodeler
+
+Vulpah, Kitsune Descendent
+
+Decline the Grim
+
+Syrion Blue Spirit
+
+Sky Guardian
+
+Spiritual Whale
+
+Myssae Observer
+
+Rampant Growth
+
+Sanctum Weaver
+
+Serenra Elf
+
+Emerald Pendant
+
+Steel Act
+
+Flame Daydreamer
+
+Night Assassin
+
+Cindertorn Dragon
+
+
+VERSION 10 CHANGELOG
 ====================
 
 

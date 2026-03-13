@@ -5,7 +5,7 @@
 			<name>SYR</name>
 			<longname>Syrion: Ethereal Surge</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-03-12</releasedate>
+			<releasedate>2026-03-13</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -67,7 +67,7 @@ Whenever you draw your second card each turn, you may pay {2}{U}. If you do, tar
 			<text>Flying, haste
 As you cast this spell, each nonland permanent phases out. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.) [8/8]
 [level 15] This creature gets +2/+2.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/3.png" num="98">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/3.png" num="107">SYR</set>
 			<prop>
 				<layout>leveler</layout>
 				<side>front</side>
@@ -84,7 +84,7 @@ As you cast this spell, each nonland permanent phases out. (Treat it and anythin
 		<card>
 			<name>Vital Magic</name>
 			<text>You gain 4 life. Transcend 2. (You get 2 Anima counters.)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/4.png" num="109">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/4.png" num="123">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -102,7 +102,7 @@ As you cast this spell, each nonland permanent phases out. (Treat it and anythin
 			<text>Kicker {2} (You may pay an additional {2} as you cast this spell.)
 Until end of turn, enchantments you control gain indestructible and hexproof.
 If this spell was kicked, transcend X, where X is the number of enchantments you control. (You get X Anima counters.)</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/5.png" num="69">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/5.png" num="71">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -118,7 +118,7 @@ If this spell was kicked, transcend X, where X is the number of enchantments you
 		<card>
 			<name>Wisteria of Evolution</name>
 			<text>At the beginning of your end step, proliferate if you gained life this turn. Then proliferate for each 4 life you gained this turn. (To proliferate, choose any number of permanents and/or players, then give each another counter of each kind already there.)</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/6.png" num="103">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/6.png" num="114">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -188,7 +188,7 @@ If this spell was kicked, transcend X, where X is the number of enchantments you
 			<text>Flying
 {T}: Add {G}{G}. Activate only if this creature has one or more finality counters on it.
 Redemption—Pay 2 life (When this creature dies, if it had no finality counter on it, you may pay 2 life. If you do, return it onto the battlefield with a finality counter on it.)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/10.png" num="70">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/10.png" num="72">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -223,7 +223,7 @@ Create a treasure token. Draw a card, then discard a card.</text>
 		<card>
 			<name>Demonic Conqueror</name>
 			<text>Deathtouch
-{B}, exile a creature card from your graveyard: Create a 3/3 black Zalkrein creature token with menace. You lose 2 life.</text>
+{B}, exile a creature card from your graveyard: Create a 3/3 black Zalkrein creature token with menace.</text>
 			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/12.png" num="28">SYR</set>
 			<prop>
 				<layout>normal</layout>
@@ -260,7 +260,7 @@ Create a treasure token. Draw a card, then discard a card.</text>
 			<name>Skies of Annihilation</name>
 			<text>Exile all permanents that are white or green.
 For each opponent with 10 or more Anima counters, they create a treasure token for each permanent exiled this way.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/14.png" num="92">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/14.png" num="101">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -278,7 +278,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>You may play this land from your graveyard.
 {T}: Add {C}.
 {T}: Add {G}, {W} or {U}. Spend this mana only to cast Empyrean, Angel, Faunid or Elf spells.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/15.png" num="116">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/15.png" num="130">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -295,7 +295,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>You may play this land from your graveyard.
 {T}: Add {C}.
 {T}: Add {W}, {U} or {R}. Spend this mana only to cast Human spells.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/16.png" num="111">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/16.png" num="125">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -331,7 +331,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>You may play this land from your graveyard.
 {T}: Add {C}.
 {T}: Add {R}, {G} or {W}. Spend this mana only to cast Faunid or Elf spells.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/18.png" num="114">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/18.png" num="128">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -348,7 +348,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>You may play this land from your graveyard.
 {T}: Add {C}.
 {T}: Add {U}, {B} or {R}. Spend this mana only to cast Zalkrein or black spells.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/19.png" num="118">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/19.png" num="132">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -363,7 +363,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 		<card>
 			<name>Snow Huntress</name>
 			<text>Reach</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/20.png" num="94">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/20.png" num="103">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -382,7 +382,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>You may play this land from your graveyard.
 {T}: Add {C}.
 {T}: Add {G}, {U} or {R}. Spend this mana only to cast Dragon or Faunid spells.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/21.png" num="115">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/21.png" num="129">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -431,7 +431,7 @@ For each opponent with 10 or more Anima counters, they create a treasure token f
 			<text>Reach
 At the beginning of combat each turn, target creature with flying attacks if able.
 Whenever this creature blocks a creature with flying, this creature gets +2/+2 until end of turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/24.png" num="93">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/24.png" num="102">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -468,7 +468,7 @@ Whenever this creature blocks a creature with flying, this creature gets +2/+2 u
 			<text>Devoid (This card has no color.)
 At the beginning of your end step, create a token that&apos;s a copy of another target nonland permanent you control, except that permanent isn&apos;t legendary. If you have 15 or less Anima counters, sacrifice this enchantment instead.
 Cycling {1} ({1}, Discard this card: Draw a card.)</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/26.png" num="84">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/26.png" num="91">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -485,7 +485,7 @@ Cycling {1} ({1}, Discard this card: Draw a card.)</text>
 			<text>Bleedmaker (Damage isn&apos;t removed from creatures during cleanup steps.)
 Flying, haste
 Landfall — Whenever a land you control enters, this creature deals 1 damage to target creature or opponent.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/27.png" num="85">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/27.png" num="93">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -505,7 +505,7 @@ Landfall — Whenever a land you control enters, this creature deals 1 damage to
 Whenever Razziel attacks create a 1/1 colorless Toy artifact creature token and put a +1/+1 counter on her.
 If damage would be dealt to Razziel, damage is dealt to target Toy you control instead.
 {0}: Change the target of a spell or ability targeting Razziel to target Toy you control.</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/28.png" num="88">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/28.png" num="95">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -524,7 +524,7 @@ If damage would be dealt to Razziel, damage is dealt to target Toy you control i
 			<text>Deathtouch
 If a creature you don&apos;t control would die, exile it instead.
 During each player&apos;s turn, that player may cast a spell from among cards exiled with this creature, and they may spend mana as though it were mana of any color to cast that spell.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/29.png" num="72">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/29.png" num="76">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -648,7 +648,7 @@ Whenever you cast a spell, target player darkens 2. If they can&apos;t, each pla
 			<name>Licia of the Insurging Seas</name>
 			<text>Whenever you cast a spell, you may pay {2}. If you do, remove a counter from target player, planeswalker or creature.
 Redemption—{3}{G}{U} (When this creature dies, if it had no finality counter on it, you may pay {3}{G}{U}. If you do, return it onto the battlefield with a finality counter on it.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/36.png" num="77">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/36.png" num="83">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -737,7 +737,7 @@ Whenever this creature attacks, it deals 1 damage to each opponent.</text>
 			<text>Whenever an enchantment enters the battlefield from your graveyard, choose one—
 • You gain 3 life.
 • Draw a card.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/41.png" num="76">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/41.png" num="82">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -755,7 +755,7 @@ Whenever this creature attacks, it deals 1 damage to each opponent.</text>
 			<name>Vizzet Quick Fighter</name>
 			<text>Flying, haste
 Whenever Vizzet Quick Fighter deals combat damage, draw a card.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/42.png" num="100">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/42.png" num="110">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -774,7 +774,7 @@ Whenever Vizzet Quick Fighter deals combat damage, draw a card.</text>
 			<text>Flash
 When Vizzet enters, target nonland permanent phases out. If you controlled that permanent, draw two cards. (Treat it and anything attached to it as though they don&apos;t exist until its controller&apos;s next turn.)
 {1}{U}{R}: Target creature you control gains bravery until end of turn. Activate only once each turn. (A creature with bravery can block creatures as though they didn&apos;t have menace.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/43.png" num="99">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/43.png" num="109">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -791,7 +791,7 @@ When Vizzet enters, target nonland permanent phases out. If you controlled that 
 		<card>
 			<name>Entity Mirrorer</name>
 			<text>Whenever a token you control enters for the first time each turn, create a token that&apos;s a copy of it and you lose 2 life.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/44.png" num="68">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/44.png" num="70">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -807,7 +807,7 @@ When Vizzet enters, target nonland permanent phases out. If you controlled that 
 		<card>
 			<name>Night Prowler</name>
 			<text>Darken 1: Add {B} or {G}. Then each opponent loses 1 life. Activate only once each turn. (To darken 1, remove an Anima counter from you.)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/45.png" num="108">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/45.png" num="122">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -829,7 +829,7 @@ If an opponent would get a counter, you get a counter of the same kind instead u
 Darken 14: Exile Khikxi and return it transformed onto the battlefield. (To darken 14, remove fourteen Anima counters from you.)
 ---
 (Back): Khikxi, Revolute Banisher</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/46_front.png" num="107a">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/46_front.png" num="121a">SYR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>front</side>
@@ -850,7 +850,7 @@ Darken 14: Exile Khikxi and return it transformed onto the battlefield. (To dark
 When Khikxi enters, exile target nonland permanent.
 ---
 (Front): Khikxi, Revolute Evolver</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/46_back.png" num="107b">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/46_back.png" num="121b">SYR</set>
 			<prop>
 				<layout>transform</layout>
 				<side>back</side>
@@ -887,7 +887,7 @@ Whenever you darken, each opponent loses 1 life and you gain 1 life.</text>
 			<name>Abyss Traveler</name>
 			<text>Reach
 {T}: Put a +1/+1 counter on each black creature you control. Activate only as a sorcery and if an opponent lost four or more life this turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/48.png" num="106">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/48.png" num="117">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -906,7 +906,7 @@ Whenever you darken, each opponent loses 1 life and you gain 1 life.</text>
 			<text>Flying, haste
 When this creature enters, each player transcends 1. (That player gets 1 Anima counter.)
 {2}, {T}: Target player sacrifices a nonland permanent unless they darken 1. (To have a player darken 1, that player removes an Anima counter from themselves)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/49.png" num="82">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/49.png" num="89">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -924,7 +924,7 @@ When this creature enters, each player transcends 1. (That player gets 1 Anima c
 			<name>Spiritualizing Sky</name>
 			<text>Convoke (Your creatures can help cast this spell. Each creature you tap while casting this spell pays for {1} or one mana of that creature&apos;s color.)
 Non-artifact creatures you control are enchantments in addition to their other types. This is also true for non-artifact creatures you own that aren&apos;t on the battlefield.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/50.png" num="95">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/50.png" num="104">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -941,7 +941,7 @@ Non-artifact creatures you control are enchantments in addition to their other t
 			<name>Rejuvinating Heights</name>
 			<text>When this enchantment enters, search your library for an enchantment card with mana value 3 or less, reveal that card, put it in your hand, then shuffle.
 At the beginning of your upkeep, you gain life equal to the number of enchantments you control.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/51.png" num="89">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/51.png" num="96">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -959,7 +959,7 @@ At the beginning of your upkeep, you gain life equal to the number of enchantmen
 			<text>Vigilance
 When Merley enters, create a 1/1 white Cat creature token with lifelink.
 Whenever you gain life, put a +1/+1 counter on each creature you control.</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/52.png" num="83">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/52.png" num="90">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -979,7 +979,7 @@ Whenever you gain life, put a +1/+1 counter on each creature you control.</text>
 You may cast enchantment spells from your graveyard.
 You may look at the top card of your library any time.
 You may play lands and cast enchantment spells from the top of your library.</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/53.png" num="90">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/53.png" num="99">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -999,7 +999,7 @@ You may play lands and cast enchantment spells from the top of your library.</te
 This land enters tapped.
 {T}: Add {C}.
 {3}: This land deals 1 damage to target creature.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/54.png" num="112">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/54.png" num="126">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1033,7 +1033,7 @@ Investigate. (Create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifi
 			<text>Menace
 Whenever Mayel deals combat damage to a player, mill two cards. Untap him.
 {T}: Return target nonland card from your graveyard to your hand. You lose life equal to that card&apos;s mana value.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/56.png" num="81">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/56.png" num="88">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1172,8 +1172,8 @@ Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)
 		<card>
 			<name>Supply Manager</name>
 			<text>When this creature enters or leaves the battlefield, create a Munitions token.
-{2}{R}, sacrifice an artifact: Target creature you control deals 2 damage to another target creature you don&apos;t control</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/64.png" num="96">SYR</set>
+{2}{R}, sacrifice an artifact: Target creature you control deals 2 damage to another target creature you don&apos;t control.</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/64.png" num="105">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1244,27 +1244,9 @@ This creature crews vehicles as though its power were 2 greater.</text>
 			<tablerow>2</tablerow>
 		</card>
 		<card>
-			<name>Plasma Canoneer</name>
-			<text>Artifacts you control enter tapped.
-{3}, sacrifice an untapped artifact: Target creature you control deals 3 damage to another target creature.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/68.png" num="87">SYR</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Creature — Human Soldier</type>
-				<maintype>Creature</maintype>
-				<manacost>2UR</manacost>
-				<cmc>4</cmc>
-				<colors>UR</colors>
-				<coloridentity>UR</coloridentity>
-				<pt>2/4</pt>
-			</prop>
-			<tablerow>2</tablerow>
-		</card>
-		<card>
 			<name>Permanent Nomads</name>
 			<text>Landfall — Whenever a land you control enters, create an Encampment token attached to it.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/69.png" num="86">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/68.png" num="94">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1282,7 +1264,7 @@ This creature crews vehicles as though its power were 2 greater.</text>
 			<name>Zalkrein Poisoner</name>
 			<text>Deathtouch
 Pay 2 life: If an opponent has a counter, transcend 1. (You get 1 Anima counter.)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/70.png" num="36">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/69.png" num="36">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1300,7 +1282,7 @@ Pay 2 life: If an opponent has a counter, transcend 1. (You get 1 Anima counter.
 			<name>Zalkrys Conqueror</name>
 			<text>Battle cry (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
 Whenever another nontoken creature dies, you may pay 2 life. If you do, exile that creature and create a 3/3 black Zalkrein creature token with menace.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/71.png" num="37">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/70.png" num="37">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1320,7 +1302,7 @@ Whenever another nontoken creature dies, you may pay 2 life. If you do, exile th
 I — Each player sacrifices a creature with the greatest power among creatures they control.
 II — Each player may discard a card. Each player who didn&apos;t discard a card this way loses 5 life.
 III — Put target creature card from an opponent&apos;s graveyard onto the battlefield under your control.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/72.png" num="104">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/71.png" num="115">SYR</set>
 			<prop>
 				<layout>saga</layout>
 				<side>front</side>
@@ -1338,7 +1320,7 @@ III — Put target creature card from an opponent&apos;s graveyard onto the batt
 			<name>Coming Clean</name>
 			<text>Flash
 Whenever a creature enters, until end of turn, it becomes a 2/2 Citizen with hexproof and lose all other abilities.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/73.png" num="3">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/72.png" num="3">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1355,7 +1337,7 @@ Whenever a creature enters, until end of turn, it becomes a 2/2 Citizen with hex
 			<name>Quiet Pressure</name>
 			<text>At the beginning of your upkeep, create a 3/3 black Zalkrein creature token with menace unless target opponent pays 2 life.
 Whenever a creature token you control dies, you lose 2 life and draw a card.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/74.png" num="31">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/73.png" num="31">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1372,7 +1354,7 @@ Whenever a creature token you control dies, you lose 2 life and draw a card.</te
 			<name>Trapped By Your innovation</name>
 			<text>Triggered abilities of artifacts you control can&apos;t be triggered.
 Whenever a creature deals damage to you, you gain life equal to the number of artifacts you control, then sacrifice an artifact.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/75.png" num="11">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/74.png" num="11">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1391,7 +1373,7 @@ Whenever a creature deals damage to you, you gain life equal to the number of ar
 Enchanted creature gets +2/+1 and is goaded.
 Whenever enchanted creature deals damage, you gain that much life.
 Escape—{W}{W}, exile two others cards from your graveyard (You may cast this card from your graveyard for its escape cost.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/76.png" num="13">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/75.png" num="13">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1409,7 +1391,7 @@ Escape—{W}{W}, exile two others cards from your graveyard (You may cast this c
 			<text>Enchant creature
 Enchanted creature gets +1/+3, has deathtouch and is goaded.
 Whenever a creature that was dealt damage by enchanted creature dies, draw a card.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/77.png" num="35">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/76.png" num="35">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1427,7 +1409,7 @@ Whenever a creature that was dealt damage by enchanted creature dies, draw a car
 			<text>Enchant creature
 Enchanted creature gets +2/+2, has indestructible and is goaded.
 Whenever you lose life, goad each creature you control. (Until your next turn, that creature attacks each combat if able and attacks a player other than you if able.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/78.png" num="48">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/77.png" num="48">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1445,7 +1427,7 @@ Whenever you lose life, goad each creature you control. (Until your next turn, t
 			<text>Fateful hour — Choose one, you may choose both instead if you have 5 or less life—
 • You may cast up to one non-human creature spell this turn without paying its mana cost and as tough it had flash this turn.
 • Reveal cards from the top of your library until you reveal two creature cards. Put those cards onto the battlefield and the rest on the bottom of your library in a random order.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/79.png" num="50">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/78.png" num="50">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1461,7 +1443,7 @@ Whenever you lose life, goad each creature you control. (Until your next turn, t
 		<card>
 			<name>Heal Wounds</name>
 			<text>Until end of turn, prevent all noncombat damage that would be dealt to creatures you control this turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/80.png" num="4">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/79.png" num="4">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1479,7 +1461,7 @@ Whenever you lose life, goad each creature you control. (Until your next turn, t
 			<text>You gain 1 life for each creature you control. Draw a card.
 Whenever you cast an Avatar spell or you attack with an Avatar this turn, exile this card from your graveyard. When you do, it becomes foretold.
 Foretell {1}{W}{U} (During your turn, you may pay {2} and exile this card from your hand face down. Cast it on a later turn for its foretell cost.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/81.png" num="79">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/80.png" num="86">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1496,7 +1478,7 @@ Foretell {1}{W}{U} (During your turn, you may pay {2} and exile this card from y
 			<name>Trapped by the Darkness</name>
 			<text>Prevent the next damage target attacking creature would deal this turn.
 Target blocking creature you control gains deathtouch.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/82.png" num="33">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/81.png" num="33">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1510,27 +1492,10 @@ Target blocking creature you control gains deathtouch.</text>
 			<tablerow>3</tablerow>
 		</card>
 		<card>
-			<name>We Must Preserve!</name>
-			<text>You may exile three nontoken artifacts you control rather than paying this spell&apos;s mana cost.
-Creatures you control gain protection from each color until the end of the turn. You gain 6 life. (It can&apos;t be blocked, targeted, dealt damage, enchanted, or equipped by anything each color until the end of the turn.)</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/83.png" num="102">SYR</set>
-			<prop>
-				<layout>normal</layout>
-				<side>front</side>
-				<type>Instant</type>
-				<maintype>Instant</maintype>
-				<manacost>3WU</manacost>
-				<cmc>5</cmc>
-				<colors>WU</colors>
-				<coloridentity>WU</coloridentity>
-			</prop>
-			<tablerow>3</tablerow>
-		</card>
-		<card>
 			<name>Guided By Destiny</name>
 			<text>Enchant creature
 Whenever enchanted creature deals combat damage, draw a card, then you gain life equal to the number of cards in your hand.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/84.png" num="73">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/82.png" num="77">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1547,7 +1512,7 @@ Whenever enchanted creature deals combat damage, draw a card, then you gain life
 			<name>Radiant Soul</name>
 			<text>Enchant creature
 If damage would be dealt to enchanted creature, prevent that damage. When damage is prevented this way, target player loses that much life.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/85.png" num="1">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/83.png" num="1">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1561,7 +1526,7 @@ If damage would be dealt to enchanted creature, prevent that damage. When damage
 		<card>
 			<name>Death Upon</name>
 			<text>Exile target creature that was dealt damage this turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/86.png" num="66">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/84.png" num="66">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1577,7 +1542,7 @@ If damage would be dealt to enchanted creature, prevent that damage. When damage
 		<card>
 			<name>Existence Shattering</name>
 			<text>Target creature deals damage to itself equal to its toughness. Damage can&apos;t be prevented this way. If this creature has indestructible, it loses indestructible until end of turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/87.png" num="40">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/85.png" num="40">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1593,7 +1558,7 @@ If damage would be dealt to enchanted creature, prevent that damage. When damage
 		<card>
 			<name>Eldritch Encounter</name>
 			<text>Until end of turn, target creature becomes black, its base toughness and power becomes 3/3, is a Zalkrein in addition to its other types and gains menace.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/88.png" num="29">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/86.png" num="29">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1612,7 +1577,7 @@ If damage would be dealt to enchanted creature, prevent that damage. When damage
 When this artifact enters, if it was cast, each opponent creates a token that is a copy of it.
 When this artifact enters, choose a creature.
 Chosen creature has protection from monocolor. (This permanent can&apos;t be targeted, dealt damage, enchanted, or equipped by anything monocolor.)</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/89.png" num="9">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/87.png" num="9">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1628,7 +1593,7 @@ Chosen creature has protection from monocolor. (This permanent can&apos;t be tar
 		<card>
 			<name>Lysa, Yps Biggest Fan</name>
 			<text>At the beginning of your upkeep, if you control more artifacts than your opponents, draw a card. Then if you control an artifact with the highest mana value among other artifacts, draw a card.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/90.png" num="78">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/88.png" num="85">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1646,7 +1611,7 @@ Chosen creature has protection from monocolor. (This permanent can&apos;t be tar
 			<name>George Yps, Master Crafter</name>
 			<text>Whenever George Yps, Master Crafter enters or attacks, create a colorless artifact equipment token named Spy Kit with &quot;Equipped creature gets +1/+1 and has all names of nonlegendary creature cards in addition to its name.&quot; and equip {2}.
 Activated abilities of artifact tokens you control cost {2} less to activate.</text>
-			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/91.png" num="71">SYR</set>
+			<set rarity="mythic" picurl="https://nekoniyah.github.io/sets/SYR-files/img/89.png" num="74">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1664,7 +1629,7 @@ Activated abilities of artifact tokens you control cost {2} less to activate.</t
 			<name>Mary, Army Admiral</name>
 			<text>Flash, vigilance
 If another attacking creature you own would die, return it to your hand instead of putting it into your graveyard.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/92.png" num="80">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/90.png" num="87">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1681,7 +1646,7 @@ If another attacking creature you own would die, return it to your hand instead 
 		<card>
 			<name>Zalkrein Fear</name>
 			<text>At the beginning of your upkeep, if you control a legendary creature, put a +1/+1 counter and a menace counter on target creature. It becomes black, its base toughness and power becomes 3/3 and is a Zalkrein in addition to its other types.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/93.png" num="105">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/91.png" num="116">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1698,7 +1663,7 @@ If another attacking creature you own would die, return it to your hand instead 
 			<name>Take Possession for Money</name>
 			<text>(You may cast a legendary instant only if you control a legendary creature or planeswalker)
 Counter target permanent spell. Put that card on the battlefield under your control instead of putting it into its owner&apos;s graveyard. Its controller creates three treasure tokens.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/94.png" num="97">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/92.png" num="106">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1716,7 +1681,7 @@ Counter target permanent spell. Put that card on the battlefield under your cont
 			<text>This land enters tapped.
 {T}, pay 1 life: Add {U} or {B}.
 {2}, {T}, sacrifice a creature: Mill two cards, then draw two cards.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/95.png" num="113">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/93.png" num="127">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1733,7 +1698,7 @@ Counter target permanent spell. Put that card on the battlefield under your cont
 			<text>This land enters tapped.
 {T}, pay 1 life: Add {R} or {B}.
 {3}{B}, {T}: Create a 3/3 black Zalkrein creature token with menace.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/96.png" num="117">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/94.png" num="131">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1749,7 +1714,7 @@ Counter target permanent spell. Put that card on the battlefield under your cont
 			<name>Approaching the Negotiations</name>
 			<text>Any opponent may have you gain control of target noncreature permanent they control. For each opponent who does, they draw two cards.
 Draw a card for each permanent you control but don&apos;t own.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/97.png" num="14">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/95.png" num="14">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1766,7 +1731,7 @@ Draw a card for each permanent you control but don&apos;t own.</text>
 			<name>Armed and Loaded</name>
 			<text>As an additional cost to cast this spell, you may sacrifice an artifact.
 Armed and Loaded deals 3 damage to target creature or planeswalker. If this spell&apos;s additional cost was paid, Armed and Loaded deals 6 damage instead.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/98.png" num="38">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/96.png" num="38">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1783,7 +1748,7 @@ Armed and Loaded deals 3 damage to target creature or planeswalker. If this spel
 			<name>Central Overcharge</name>
 			<text>As an additional cost to cast this spell, pay {4} or tap two untapped artifacts you control.
 Central Overcharge deals 6 damage divided as you choose among one, two, or three target creatures.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/99.png" num="39">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/97.png" num="39">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1800,7 +1765,7 @@ Central Overcharge deals 6 damage divided as you choose among one, two, or three
 			<name>Key to Success</name>
 			<text>This spell costs {1} less to cast for each Gate, Town, and Nation you control.
 Draw five cards. You gain 5 life. Create a number of Munition tokens equal to the number of lands you control. Add {U}{U}{R}{R}{W}{W} to your mana pool.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/100.png" num="75">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/98.png" num="81">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1818,7 +1783,7 @@ Draw five cards. You gain 5 life. Create a number of Munition tokens equal to th
 			<text>Exchange control of target artifact you don&apos;t control with target artifact you control.
 If you cast this card from your graveyard, this spell deals damage to target player or creature equal to the number of artifacts you control.
 Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/101.png" num="44">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/99.png" num="44">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1834,7 +1799,7 @@ Flashback {4}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>Scatter and Deploy</name>
 			<text>Create a food token for each creature you control. Then if you attacked with three or more creature this turn, create a tapped treasure token for each creature that attacked this turn.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/102.png" num="91">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/100.png" num="100">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1850,7 +1815,7 @@ Flashback {4}{R} (You may cast this card from your graveyard for its flashback c
 		<card>
 			<name>Slow and Steady</name>
 			<text>Target creature you control gains skulk until end of turn. When it becomes tapped this turn, investigate. (That creature can&apos;t be blocked by creatures with greater power. To investigate, create a Clue token. It&apos;s an artifact with &quot;{2}, Sacrifice this token: Draw a card.&quot;)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/103.png" num="21">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/101.png" num="21">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1867,7 +1832,7 @@ Flashback {4}{R} (You may cast this card from your graveyard for its flashback c
 			<name>Spy Kit SYR</name>
 			<text>Equipped creature gets +1/+1 and has all names of nonlegendary creature cards in addition to its name.
 Equip {2}</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/104.png" num="5">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/102.png" num="5">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1883,7 +1848,7 @@ Equip {2}</text>
 			<name>Encampment SYR</name>
 			<text>Whenever fortified land becomes tapped for mana, you gain 1 life for each color produced this way. Do this only once each turn.
 Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/105.png" num="4">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/103.png" num="4">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1899,7 +1864,7 @@ Fortify {3} ({3}: Attach to target land you control. Fortify only as a sorcery.)
 			<name>Javed, Diplomat</name>
 			<text>Whenever a Nation enters the battlefield from your graveyard, put a +1/+1 counter on each creature you control.
 Tap target creature you control: Mill four cards. You gain that much life.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/106.png" num="74">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/104.png" num="79">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1917,7 +1882,7 @@ Tap target creature you control: Mill four cards. You gain that much life.</text
 			<name>Traveling Season</name>
 			<text>Whenever a Nation you control enters, draw a card.
 {G}{G}, tap target Nation you control: Create two tapped Food tokens.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/107.png" num="59">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/105.png" num="59">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1934,7 +1899,7 @@ Tap target creature you control: Mill four cards. You gain that much life.</text
 			<name>World Remodeler</name>
 			<text>When World Remodeler enters the battlefield, create two Lander tokens. (They&apos;re artifacts with &quot;{2}, {T}, Sacrificie this token: Search your library for a basic land card, put it onto the battlefield tapped, then shuffle.&quot;)
 Whenever a land enters the battlefield from your graveyard, create a 3/3 black Zalkrein creature token with menace.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/108.png" num="110">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/106.png" num="124">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1950,7 +1915,7 @@ Whenever a land enters the battlefield from your graveyard, create a 3/3 black Z
 			<text>Battle cry, lifelink (Whenever this creature attacks, each other attacking creature gets +1/+0 until end of turn.)
 Other creatures you control have battle cry and lifelink.
 Whenever a creature you control deals damage to a player or planeswalker, untap that creature.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/109.png" num="101">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/107.png" num="111">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1967,7 +1932,7 @@ Whenever a creature you control deals damage to a player or planeswalker, untap 
 		<card>
 			<name>Decline the Grim</name>
 			<text>Counter target red or black spell. If a monocolored spell was countered this way, create a treasure token.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/110.png" num="16">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/108.png" num="16">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -1985,7 +1950,7 @@ Whenever a creature you control deals damage to a player or planeswalker, untap 
 			<text>Flying
 Whenever a player casts a spell for the first time each turn, that player draws a card.
 {T}: Add {U}. Spend this mana only to cast Spirit or Elemental spells.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/111.png" num="24">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/109.png" num="24">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2004,7 +1969,7 @@ Whenever a player casts a spell for the first time each turn, that player draws 
 			<text>Flash
 Flying
 When this creature dies, draw a card.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/112.png" num="20">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/110.png" num="20">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2022,7 +1987,7 @@ When this creature dies, draw a card.</text>
 			<name>Spiritual Whale</name>
 			<text>Flash
 Flying</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/113.png" num="23">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/111.png" num="23">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2039,7 +2004,7 @@ Flying</text>
 		<card>
 			<name>Myssae Observer</name>
 			<text>{T}: Add one mana of any color. Activate only if you control another nonland permanent.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/114.png" num="55">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/112.png" num="55">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2056,7 +2021,7 @@ Flying</text>
 		<card>
 			<name>Rampant Growth</name>
 			<text>Search your library for a basic land card, put that card onto the battlefield tapped, then shuffle.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/115.png" num="56">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/113.png" num="56">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2072,7 +2037,7 @@ Flying</text>
 		<card>
 			<name>Sanctum Weaver</name>
 			<text>{T}: Add X mana of any one color, where X is the number of enchantments you control.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/116.png" num="57">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/114.png" num="57">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2089,7 +2054,7 @@ Flying</text>
 		<card>
 			<name>Serenra Elf</name>
 			<text>{T}: Add {G}.</text>
-			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/117.png" num="58">SYR</set>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/115.png" num="58">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2106,7 +2071,7 @@ Flying</text>
 		<card>
 			<name>Emerald Pendant</name>
 			<text>Whenever you cast a green spell, you gain 1 life.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/118.png" num="52">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/116.png" num="52">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2122,7 +2087,7 @@ Flying</text>
 		<card>
 			<name>Steel Act</name>
 			<text>Add {R} for each nontoken artifact you control.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/119.png" num="47">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/117.png" num="47">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2139,7 +2104,7 @@ Flying</text>
 			<name>Flame Daydreamer</name>
 			<text>Prowess
 Sacrifice Flame Daydreamer: It deals damage to target creature equal to this creature&apos;s power.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/120.png" num="41">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/118.png" num="41">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2157,7 +2122,7 @@ Sacrifice Flame Daydreamer: It deals damage to target creature equal to this cre
 			<name>Night Assassin</name>
 			<text>As you cast this spell, choose a color.
 When Night Assassin enters, creatures of the chosen color get -0/-2 until end of turn.</text>
-			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/121.png" num="30">SYR</set>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/119.png" num="30">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2175,7 +2140,7 @@ When Night Assassin enters, creatures of the chosen color get -0/-2 until end of
 			<name>Cindertorn Dragon</name>
 			<text>Flying
 Whenever a creature dies, create a treasure token.</text>
-			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/122.png" num="27">SYR</set>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/120.png" num="27">SYR</set>
 			<prop>
 				<layout>normal</layout>
 				<side>front</side>
@@ -2188,6 +2153,285 @@ Whenever a creature dies, create a treasure token.</text>
 				<pt>4/5</pt>
 			</prop>
 			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Electric Wanderer</name>
+			<text>{T}: Add {R} or {G}.
+Whenever you cast a spell with mana value 4 or greater, untap this creature.</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/121.png" num="69">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>RG</manacost>
+				<cmc>2</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Kahab, Bradchel Manifestation</name>
+			<text>Reach
+Whenever you cast a spell, Kahab deals 2 damage to any target. If this is the second time this ability has resolved this turn, search your library for a land card, put that card onto the battlefield tapped, then shuffle.</text>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/122.png" num="80">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Artifact Creature — Golem Avatar</type>
+				<maintype>Creature</maintype>
+				<manacost>2RRGG</manacost>
+				<cmc>6</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>6/6</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Guttural Response</name>
+			<text>Counter target blue instant spell.</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/123.png" num="120">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>R/G</manacost>
+				<cmc>1</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Resting Beastie</name>
+			<text>Forestwalk (This creature can&apos;t be blocked as long as defending player controls a Forest.)
+Tapped permanents you control have hexproof.</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/124.png" num="97">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Beast</type>
+				<maintype>Creature</maintype>
+				<manacost>2RG</manacost>
+				<cmc>4</cmc>
+				<colors>RG</colors>
+				<coloridentity>RG</coloridentity>
+				<pt>4/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Winter Zalkrein</name>
+			<text>Flash
+Deathtouch</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/125.png" num="113">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Zalkrein</type>
+				<maintype>Creature</maintype>
+				<manacost>UB</manacost>
+				<cmc>2</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Warbringer Illusionist</name>
+			<text>Whenever another creature enters, you may have Warbringer Illusionist become a copy of that creature until end of turn.</text>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/126.png" num="112">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Skeleton Zalkrein</type>
+				<maintype>Creature</maintype>
+				<manacost>1UB</manacost>
+				<cmc>3</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>1/1</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Lizard Invasion</name>
+			<text>(As this Saga enters and after your draw step, add a lore counter. Sacrifice after III.)
+I — Each player draws a card.
+II — You may have target creature you control fight another creature. (Each deals damage equal to its power to the other.)
+III — Return target creature with mana 3 or less from your graveyard to your hand.</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/127.png" num="84">SYR</set>
+			<prop>
+				<layout>saga</layout>
+				<side>front</side>
+				<type>Enchantment — Saga</type>
+				<maintype>Enchantment</maintype>
+				<manacost>1GU</manacost>
+				<cmc>3</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Goldenleaf Hybrid</name>
+			<text>Flying
+Whenever you draw a card, put a +1/+1 counter on target creature.</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/128.png" num="75">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Faerie Elemental</type>
+				<maintype>Creature</maintype>
+				<manacost>GU</manacost>
+				<cmc>2</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Hanad, Valiant Fog</name>
+			<text>Whenever you cast a creature spell with mana value 5 or less, draw a card.
+{X}{2}{G}{G}, {T}: Creatures you control get +X/+X until end of turn.</text>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/129.png" num="78">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Elf Sorcerer</type>
+				<maintype>Creature</maintype>
+				<manacost>2GU</manacost>
+				<cmc>4</cmc>
+				<colors>UG</colors>
+				<coloridentity>UG</coloridentity>
+				<pt>3/4</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Mist-ical Spirit</name>
+			<text>Whenever you attack, you may have target attacking creature you control gains your choice of flying, menace, deathtouch or lifelink until end of turn.</text>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/130.png" num="92">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment Creature — Spirit Fox</type>
+				<maintype>Creature</maintype>
+				<manacost>1WB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+				<pt>2/2</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Debt Daily Collect</name>
+			<text>Whenever a creature enters under an opponents control, surveil 1 unless they pay {1}, if this is the third time this ability resolve this turn, draw a card instead. (To surveil 1, look at the top card of your library. You may put it into your graveyard.)</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/131.png" num="118">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>WW/BB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
+		</card>
+		<card>
+			<name>Duel the Evil</name>
+			<text>Duel the Evil deals damage equal to the number of creatures you control to target creature or planeswalker. If that permanent is black, exile it instead of putting it in its owner&apos;s graveyard.</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/132.png" num="68">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Instant</type>
+				<maintype>Instant</maintype>
+				<manacost>WBB</manacost>
+				<cmc>3</cmc>
+				<colors>WB</colors>
+				<coloridentity>WB</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>Uzamehl, Zalkrys Army Leader</name>
+			<text>Menace
+When Uzamehl, Zalkrys Army Leader enters the battlefield, create a 3/3 black Zalkrein creature token with menace.
+Whenever you attack, for each opponent attacked by a Zalkrein, you lose 1 life and draw a card.</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/133.png" num="108">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Legendary Creature — Human Mercenary</type>
+				<maintype>Creature</maintype>
+				<manacost>2UB</manacost>
+				<cmc>4</cmc>
+				<colors>UB</colors>
+				<coloridentity>UB</coloridentity>
+				<pt>3/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Fall into Malice</name>
+			<text>Destroy target creature with flying, if that creature was an Angel you may destroy target enchantment or creature that opponents control.</text>
+			<set rarity="common" picurl="https://nekoniyah.github.io/sets/SYR-files/img/134.png" num="119">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Sorcery</type>
+				<maintype>Sorcery</maintype>
+				<manacost>1B/GB/G</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>3</tablerow>
+		</card>
+		<card>
+			<name>False Spirit</name>
+			<text>Menace
+Whenever False Spirit deals combat damage to a player, destroy target creature with mana value less than or equal to the number of cards in its controller&apos;s graveyard.</text>
+			<set rarity="uncommon" picurl="https://nekoniyah.github.io/sets/SYR-files/img/135.png" num="73">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Creature — Spirit</type>
+				<maintype>Creature</maintype>
+				<manacost>BG</manacost>
+				<cmc>2</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+				<pt>2/3</pt>
+			</prop>
+			<tablerow>2</tablerow>
+		</card>
+		<card>
+			<name>Rusting Machinery</name>
+			<text>When this enchantment enters the battlefield, destroy target artifact.
+Whenever an opponent activates an ability of an artifact on the battlefield, if it isn&apos;t a mana ability, destroy that artifact.</text>
+			<set rarity="rare" picurl="https://nekoniyah.github.io/sets/SYR-files/img/136.png" num="98">SYR</set>
+			<prop>
+				<layout>normal</layout>
+				<side>front</side>
+				<type>Enchantment</type>
+				<maintype>Enchantment</maintype>
+				<manacost>BGG</manacost>
+				<cmc>3</cmc>
+				<colors>BG</colors>
+				<coloridentity>BG</coloridentity>
+			</prop>
+			<tablerow>1</tablerow>
 		</card>
 	</cards>
 </cockatrice_carddatabase>
