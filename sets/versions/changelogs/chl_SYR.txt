@@ -1,4 +1,102 @@
-﻿VERSION 12 CHANGELOG
+﻿VERSION 13 CHANGELOG
+====================
+
+
+Take Possession for Money removed.
+
+Mortuary of the Dread
+
+Zalkrein Cave
+
+Approaching the Negotiations
+
+Armed and Loaded
+
+Central Overcharge
+
+Key to Success
+rules_text: This spell costs {1} less to cast for each Gate, Town, and Nation you control.
+Draw five cards. You gain 5 life. Create a number of Munition tokens equal to the number of lands you control. Add {U}{U}{R}{R}{W}{W} to your mana pool. => This spell costs {1} less to cast for each Gate, Town, and Nation you control.
+Draw five cards. You gain 5 life. Create a number of Munitions tokens equal to the number of lands you control. Add {U}{U}{R}{R}{W}{W} to your mana pool.
+
+Market Trading
+
+Scatter and Deploy
+
+Slow and Steady
+
+Spy Kit
+
+Encampment
+
+Javed, Diplomat
+
+Traveling Season
+
+World Remodeler
+
+Vulpah, Kitsune Descendent
+
+Decline the Grim
+
+Syrion Blue Spirit
+
+Sky Guardian
+
+Spiritual Whale
+
+Myssae Observer
+
+Rampant Growth
+
+Sanctum Weaver
+
+Serenra Elf
+
+Emerald Pendant
+
+Steel Act
+
+Flame Daydreamer
+
+Night Assassin
+
+Cindertorn Dragon
+
+Electric Wanderer
+
+Kahab, Bradchel Manifestation
+
+Guttural Response
+
+Resting Beastie
+
+Winter Zalkrein
+
+Warbringer Illusionist
+
+Lizard Invasion
+
+Goldenleaf Hybrid
+
+Hanad, Valiant Fog
+
+Mist-ical Spirit
+
+Debt Daily Collect
+
+Duel the Evil
+
+Uzamehl, Zalkrys Army Leader
+
+Fall into Malice
+
+False Spirit
+
+Rusting Machinery
+
+
+VERSION 12 CHANGELOG
 ====================
 
 No changes.
